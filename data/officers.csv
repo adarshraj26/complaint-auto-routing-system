@@ -1,0 +1,56 @@
+officer_id,name,department,specialization,languages,experience_years,region,workload_score
+OFF_001,Rajesh Kumar,Water Supply,Contaminated water,"['Chinese', 'French', 'English']",9,South Zone,41
+OFF_002,Sanjay Sharma,Water Supply,Contaminated water,"['Chinese', 'French', 'English']",2,North Zone,36
+OFF_003,Amit Verma,Water Supply,Low water pressure,"['Spanish', 'English']",2,Central Zone,47
+OFF_004,Neha Singh,Water Supply,Contaminated water,"['Chinese', 'English']",16,South Zone,47
+OFF_005,Priya Patel,Water Supply,Low water pressure,"['Spanish', 'English']",12,West Zone,34
+OFF_006,Vijay Yadav,Water Supply,Contaminated water,"['Spanish', 'English']",4,North Zone,48
+OFF_007,Deepak Gupta,Water Supply,Contaminated water,"['French', 'English']",10,Central Zone,26
+OFF_008,Anil Mishra,Water Supply,Water main leakage,"['Hindi', 'Spanish', 'English']",11,Central Zone,60
+OFF_009,Ramesh Prasad,Sanitation,Trash disposal,"['Chinese', 'French', 'Spanish', 'English']",9,North Zone,62
+OFF_010,Suresh Chandra,Sanitation,Trash disposal,"['Spanish', 'English']",10,West Zone,44
+OFF_011,Kiran Devi,Sanitation,Sewer blockage,"['Hindi', 'French', 'Spanish', 'English']",10,South Zone,57
+OFF_012,Jyoti Rao,Sanitation,Street sweeping,"['Spanish', 'English', 'French']",7,South Zone,41
+OFF_013,Rahul Bose,Sanitation,Street sweeping,"['French', 'Spanish', 'English']",3,East Zone,30
+OFF_014,Rohan Das,Sanitation,Sewer blockage,"['French', 'English']",4,East Zone,36
+OFF_015,Vikram Sen,Sanitation,Sewer blockage,"['Chinese', 'French', 'Spanish', 'English']",22,West Zone,44
+OFF_016,Karan Johar,Sanitation,Trash disposal,"['French', 'English']",19,South Zone,54
+OFF_017,Arjun Reddy,Traffic & Roads,Street light outage,"['Chinese', 'Hindi', 'English']",13,West Zone,38
+OFF_018,Aditya Nair,Traffic & Roads,Traffic signal malfunction,"['Chinese', 'English']",3,North Zone,36
+OFF_019,Sandeep Joshi,Traffic & Roads,Street light outage,"['Spanish', 'English']",21,West Zone,36
+OFF_020,Pooja Mehta,Traffic & Roads,Street light outage,"['Chinese', 'Hindi', 'English']",19,East Zone,34
+OFF_021,Harish Choudhury,Traffic & Roads,Traffic signal malfunction,"['Hindi', 'French', 'English']",11,North Zone,62
+OFF_022,Sunil Saxena,Traffic & Roads,Pothole repair,"['Hindi', 'English']",18,East Zone,60
+OFF_023,Manish Roy,Traffic & Roads,Pothole repair,"['Chinese', 'English']",22,East Zone,45
+OFF_024,Alok Trivedi,Public Health,Pest control,"['Chinese', 'Hindi', 'Spanish', 'English']",18,Central Zone,36
+OFF_025,Swati Kapoor,Public Health,Pest control,"['Hindi', 'French', 'English']",11,East Zone,34
+OFF_026,Rajeshwar Rao,Public Health,Noise pollution control,"['Spanish', 'English']",4,North Zone,56
+OFF_027,Meena Iyer,Public Health,Pest control,"['Spanish', 'English']",19,West Zone,26
+OFF_028,Vinay Malhotra,Public Health,Pest control,"['Chinese', 'Hindi', 'English']",8,Central Zone,55
+OFF_029,Kavita Joshi,Public Health,Food safety violations,"['Hindi', 'French', 'English']",16,Central Zone,31
+OFF_030,Aniruddh Sen,Public Health,Pest control,"['Spanish', 'English']",2,East Zone,47
+OFF_031,Rakesh Sharma,Electricity & Power,Power line hazard,"['Chinese', 'Spanish', 'English']",9,North Zone,40
+OFF_032,Jitendra Kumar,Electricity & Power,Power line hazard,"['French', 'English']",9,Central Zone,53
+OFF_033,Manoj Gupta,Electricity & Power,Power line hazard,"['Hindi', 'French', 'Spanish', 'English']",20,Central Zone,53
+OFF_034,Siddharth Singh,Electricity & Power,Transformer failure,"['Hindi', 'English']",5,South Zone,35
+OFF_035,Nitin Verma,Electricity & Power,Transformer failure,"['Hindi', 'French', 'Spanish', 'English']",3,West Zone,56
+OFF_036,Abhishek Patel,Electricity & Power,Electricity meter fault,"['Chinese', 'Spanish', 'English']",5,East Zone,36
+OFF_037,Pankaj Mishra,Electricity & Power,Electricity meter fault,"['Spanish', 'English']",6,West Zone,42
+OFF_038,Devendra Pandey,Environmental Protection,Industrial emissions,"['French', 'English']",4,South Zone,39
+OFF_039,Subhash Chandra,Environmental Protection,Deforestation,"['Chinese', 'French', 'English']",4,North Zone,63
+OFF_040,Anjali Roy,Environmental Protection,Industrial emissions,"['Spanish', 'English']",17,West Zone,27
+OFF_041,Sunita Deshmukh,Environmental Protection,Industrial emissions,"['Spanish', 'English']",14,North Zone,27
+OFF_042,Gaurav Sen,Environmental Protection,Deforestation,"['Hindi', 'French', 'English']",17,Central Zone,36
+OFF_043,Pradeep Nair,Environmental Protection,Illegal dumping,"['French', 'English']",20,North Zone,59
+OFF_044,Vivek Anand,Environmental Protection,Illegal dumping,"['Chinese', 'French', 'English']",17,Central Zone,51
+OFF_045,Mahendra Singh,Housing & Infrastructure,Building safety inspections,"['French', 'Spanish', 'English']",4,South Zone,48
+OFF_046,Suresh Prabhu,Housing & Infrastructure,Public park maintenance,"['Spanish', 'English']",20,North Zone,31
+OFF_047,Dinesh Karthik,Housing & Infrastructure,Building safety inspections,"['Chinese', 'French', 'English']",20,West Zone,47
+OFF_048,Ramanathan Iyer,Housing & Infrastructure,Sidewalk repair,"['Chinese', 'French', 'English']",9,East Zone,36
+OFF_049,Kalyan Banerjee,Housing & Infrastructure,Public park maintenance,"['French', 'Spanish', 'English']",4,East Zone,31
+OFF_050,Ashok Khemka,Housing & Infrastructure,Building safety inspections,"['Chinese', 'English']",8,Central Zone,43
+OFF_051,Sudarshan Sen,Housing & Infrastructure,Building safety inspections,"['French', 'Spanish', 'English']",13,South Zone,37
+OFF_052,Sunil Choudhury,Housing & Infrastructure,Sidewalk repair,"['Chinese', 'English']",10,Central Zone,50
+OFF_053,Vijay Kumar,Traffic & Roads,Pothole repair,"['Chinese', 'English']",9,South Zone,43
+OFF_054,Pooja Joshi,Environmental Protection,Industrial emissions,"['French', 'English']",16,Central Zone,25
+OFF_055,Amit Gupta,Environmental Protection,Industrial emissions,"['Chinese', 'English']",5,East Zone,46

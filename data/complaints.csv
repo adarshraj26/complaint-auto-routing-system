@@ -1,0 +1,521 @@
+complaint_id,complaint_text,language,category,location,priority,resolution_days,created_date,assigned_officer
+COM_0001,Golf Course Road पर सड़क की सतह दरारों और गहरे गड्ढों से भरी है। दुर्घटना से पहले मरम्मत की आवश्यकता है।,Hindi,Traffic & Roads,Central Zone,High,8,2026-03-04 01:00:47,OFF_022
+COM_0002,Golf Course Road上的一排路灯坏了一周了。路面漆黑一片，居民感到很不安全。,Chinese,Traffic & Roads,South Zone,Medium,5,2025-09-13 20:22:47,OFF_018
+COM_0003,Dépôt d'appareils électroniques et de vieux matelas sur le bord de la route à Golf Course Road.,French,Environmental Protection,Central Zone,Medium,5,2025-08-27 12:08:47,OFF_032
+COM_0004,Nous avons besoin d'un balayage de rue sur Chhatrapati Shivaji Maharaj Marg. Les débris bloquent les gouttières.,French,Sanitation,East Zone,Low,9,2025-06-17 14:21:47,OFF_049
+COM_0005,"Le regard d'égout principal déborde à Chhatrapati Shivaji Maharaj Marg. L'eau d'égout remonte, créant un risque sanitaire.",French,Sanitation,South Zone,High,4,2025-10-18 01:56:47,OFF_025
+COM_0006,Park Street处的红绿灯在所有方向上都卡在红灯上。车辆严重拥堵，请派员处理。,Chinese,Traffic & Roads,East Zone,High,1,2025-08-28 17:23:47,OFF_020
+COM_0007,Chandni Chowk附近的马路上正有水涌出。整个人行道都淹没了，请派人修理。,Chinese,Water Supply,East Zone,High,2,2025-12-12 17:19:47,OFF_001
+COM_0008,"Hazratganj के बीच में एक गहरा और खतरनाक गड्ढा है। कारें इससे बचने के लिए मुड़ रही हैं, जो कि जोखिम भरा है।",Hindi,Traffic & Roads,Central Zone,Medium,8,2025-12-01 12:11:47,OFF_033
+COM_0009,Dr. B.R. Ambedkar Road的工业厂区散发出难闻的硫磺味。这导致居民头痛。,Chinese,Environmental Protection,East Zone,High,5,2025-12-21 21:25:47,OFF_024
+COM_0010,Hay un cable eléctrico caído en la calle cerca de Lal Bahadur Shastri Marg. Está activo y es extremadamente peligroso.,Spanish,Electricity & Power,South Zone,High,2,2026-03-04 23:26:47,OFF_031
+COM_0011,Janpath पर सड़क की सतह दरारों और गहरे गड्ढों से भरी है। दुर्घटना से पहले मरम्मत की आवश्यकता है।,Hindi,Traffic & Roads,East Zone,Medium,6,2026-02-14 14:57:47,OFF_022
+COM_0012,Las losas de acera desiguales en Jawaharlal Nehru Marg hacen imposible que usuarios de sillas de ruedas circulen seguros.,Spanish,Housing & Infrastructure,East Zone,Low,12,2025-11-16 01:59:47,OFF_049
+COM_0013,Le mur du balcon de l'ancien immeuble à Commercial Street présente de larges fissures et semble sur le point de s'effondrer.,French,Housing & Infrastructure,South Zone,High,3,2025-07-05 13:33:47,OFF_051
+COM_0014,Un urbanista está talando árboles en terrenos públicos en Lal Bahadur Shastri Marg sin permisos ambientales.,Spanish,Environmental Protection,West Zone,Medium,2,2025-07-22 12:21:47,OFF_040
+COM_0015,我们需要对Netaji Subhash Chandra Bose Road进行清扫。路边的碎屑正堵塞着雨水槽。,Chinese,Sanitation,Central Zone,Low,9,2025-08-05 13:49:47,OFF_053
+COM_0016,我们位于Vittal Mallya Road的电表完全坏了，屏幕空白但电力仍然通畅。,Chinese,Electricity & Power,Central Zone,Low,16,2026-03-05 14:04:47,OFF_031
+COM_0017,हमें Sardar Patel Marg पर सड़क सफाई की आवश्यकता है। कर्ब पर मलबा गटरों को अवरुद्ध कर रहा है।,Hindi,Sanitation,South Zone,Low,15,2026-02-19 14:47:47,OFF_011
+COM_0018,Outer Ring Road पर सीवर का गंदा पानी बाहर बह रहा है। दुर्गंधयुक्त काला गंदा पानी सड़क और रास्तों में भर रहा है।,Hindi,Sanitation,South Zone,High,4,2025-07-09 03:16:47,OFF_011
+COM_0019,La línea de alcantarillado bloqueada ha hecho que las aguas residuales regresen a los sótanos en Commercial Street.,Spanish,Sanitation,North Zone,High,4,2026-01-22 12:10:47,OFF_006
+COM_0020,सीवर लाइन बंद होने से MG Road पर घरों के बेसमेंट में सीवेज का पानी वापस आ गया है।,Hindi,Sanitation,Central Zone,High,1,2025-10-28 12:01:47,OFF_008
+COM_0021,Park Street附近的公共花园围栏破损，长椅遭到恶意破坏。,Chinese,Housing & Infrastructure,Central Zone,Low,13,2025-10-15 12:38:47,OFF_024
+COM_0022,Plusieurs résidents de la rue Lal Bahadur Shastri Marg signalent être tombés malades à cause de l'eau du robinet. L'eau est jaunâtre.,French,Water Supply,South Zone,High,2,2026-02-26 00:05:47,OFF_001
+COM_0023,MG Road的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,North Zone,Low,6,2026-01-20 04:10:47,OFF_018
+COM_0024,Les feux de signalisation à l'intersection de Vittal Mallya Road sont en panne. C'est le chaos et les accidents sont proches.,French,Traffic & Roads,East Zone,High,2,2025-12-30 08:00:47,OFF_021
+COM_0025,Multiple residents on Park Street report falling sick from tap water. The water color is yellowish and murky.,English,Water Supply,North Zone,High,1,2026-04-26 01:56:47,OFF_002
+COM_0026,Someone dumped piles of old tires and construction debris on the empty lot at Commercial Street.,English,Environmental Protection,North Zone,Medium,5,2026-01-26 20:14:47,OFF_043
+COM_0027,Sardar Patel Marg पर फुटपाथ के ऊपर हाई-वोल्टेज बिजली का तार बहुत नीचे लटका हुआ है। राहगीर खतरे में हैं।,Hindi,Electricity & Power,East Zone,High,1,2025-11-04 02:44:47,OFF_034
+COM_0028,Lal Bahadur Shastri Marg的多位居民反映因喝自来水而生病。水色发黄且浑浊。,Chinese,Water Supply,West Zone,High,1,2026-03-28 22:00:47,OFF_002
+COM_0029,Dumping of electronic appliances and old mattresses on the roadside at Outer Ring Road.,English,Environmental Protection,Central Zone,Medium,7,2025-11-22 16:34:47,OFF_044
+COM_0030,"Illegal chemical discharge from the factory into the local stream near Mall Road, killing fish.",English,Environmental Protection,North Zone,High,4,2026-01-05 10:47:47,OFF_002
+COM_0031,Maleza alta y basura en el parque local de Brigade Road. Parece descuidado y abandonado.,Spanish,Housing & Infrastructure,Central Zone,Low,13,2026-02-28 14:36:47,OFF_049
+COM_0032,Mall Road上夜间持续发生巨大的施工噪音。他们正在超出法定时间工作。,Chinese,Public Health,South Zone,Low,5,2026-01-14 06:55:47,OFF_018
+COM_0033,Lal Bahadur Shastri Marg的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,East Zone,Medium,4,2025-09-14 10:58:47,OFF_036
+COM_0034,"Le signal piéton clignote de manière erratique sur Sardar Patel Marg, semant la confusion pour les piétons.",French,Traffic & Roads,Central Zone,High,1,2025-12-23 14:42:47,OFF_021
+COM_0035,Senapati Bapat Marg पर अपार्टमेंट ब्लॉक की रिटेनिंग वॉल में गहरी संरचनात्मक दरारें पाई गई हैं।,Hindi,Housing & Infrastructure,West Zone,High,1,2025-09-19 11:51:47,OFF_034
+COM_0036,Senapati Bapat Marg的主排水沙井溢出。污水正在冒泡，造成健康隐患。,Chinese,Sanitation,Central Zone,High,5,2026-03-06 09:29:47,OFF_001
+COM_0037,Odeur fétide de soufre provenant de l'usine industrielle à Sardar Patel Marg. Cela donne des maux de tête.,French,Environmental Protection,South Zone,High,3,2025-07-29 22:41:47,OFF_001
+COM_0038,"La acera de hormigón en Commercial Street está doblada y agrietada por las raíces, lo que representa peligro de tropezar.",Spanish,Housing & Infrastructure,West Zone,Low,13,2026-02-21 18:25:47,OFF_019
+COM_0039,Il y a une rupture majeure de canalisation d'eau sur Chandni Chowk. L'inondation se propage rapidement sur la route.,French,Water Supply,South Zone,High,4,2025-08-01 07:09:47,OFF_001
+COM_0040,"Depuis trois jours, le débit d'eau est très faible sur Linking Road. Veuillez inspecter les conduites d'alimentation.",French,Water Supply,West Zone,Low,9,2025-10-21 14:37:47,OFF_021
+COM_0041,Vi ratas corriendo dentro de la cocina del restaurante en Sardar Patel Marg. Es una gran amenaza para la higiene.,Spanish,Public Health,West Zone,High,1,2026-02-04 01:43:47,OFF_027
+COM_0042,Someone is cutting down protected ancient trees in the reserve park near Linking Road without permission.,English,Environmental Protection,Central Zone,Medium,2,2025-07-28 16:55:47,OFF_042
+COM_0043,Chhatrapati Shivaji Maharaj Marg的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,Central Zone,Low,5,2026-03-26 12:26:47,OFF_031
+COM_0044,Smart meter at Dr. B.R. Ambedkar Road shows error code E-12. Please send a technician to check it.,English,Electricity & Power,South Zone,Low,13,2025-07-09 04:22:47,OFF_034
+COM_0045,"Lots of leaves, dirt, and gravel have accumulated on MG Road. The street sweeper hasn't visited in a month.",English,Sanitation,West Zone,Low,14,2025-06-14 06:25:47,OFF_019
+COM_0046,"Chhatrapati Shivaji Maharaj Marg के पास की फैक्ट्री से घना, काला रासायनिक धुआं निकल रहा है। पड़ोस में सांस लेना मुश्किल है।",Hindi,Environmental Protection,East Zone,High,3,2025-07-26 16:21:47,OFF_025
+COM_0047,Quelqu'un a déversé des tas de vieux pneus et de gravats de chantier sur le terrain vague à Jawaharlal Nehru Marg.,French,Environmental Protection,North Zone,Medium,9,2026-03-16 08:35:47,OFF_043
+COM_0048,Plusieurs résidents de la rue Lal Bahadur Shastri Marg signalent être tombés malades à cause de l'eau du robinet. L'eau est jaunâtre.,French,Water Supply,East Zone,High,2,2025-07-09 18:09:47,OFF_007
+COM_0049,"Un habitant de la rue Sardar Patel Marg fait tourner un générateur bruyant toute la journée, créant des vibrations.",French,Public Health,North Zone,Low,10,2026-03-19 17:08:47,OFF_032
+COM_0050,Les dalles de trottoir inégales à Netaji Subhash Chandra Bose Road rendent l'accès impossible pour les fauteuils roulants.,French,Housing & Infrastructure,South Zone,Low,11,2025-10-18 04:44:47,OFF_021
+COM_0051,Senapati Bapat Marg पर नाइट क्लब से रात 2 बजे के बाद बहुत तेज़ संगीत बज रहा है। निवासी सो नहीं पा रहे हैं।,Hindi,Public Health,East Zone,Low,6,2025-07-21 04:28:47,OFF_020
+COM_0052,Lal Bahadur Shastri Marg पर रात में लगातार निर्माण कार्य का तेज़ शोर हो रहा है। वे कानूनी समय के बाद भी काम कर रहे हैं।,Hindi,Public Health,Central Zone,High,4,2025-11-10 02:56:47,OFF_020
+COM_0053,"A resident on Park Street is running a noisy generator all day, generating excessive noise vibrations.",English,Public Health,West Zone,Low,5,2025-11-30 18:55:47,OFF_037
+COM_0054,Commercial Street पर नाइट क्लब से रात 2 बजे के बाद बहुत तेज़ संगीत बज रहा है। निवासी सो नहीं पा रहे हैं।,Hindi,Public Health,East Zone,Low,5,2026-05-21 14:14:47,OFF_020
+COM_0055,Brigade Road的水压已经降到了细流。洗碗或洗澡都很困难。,Chinese,Water Supply,East Zone,Low,11,2025-09-21 02:36:47,OFF_002
+COM_0056,Presión de agua extremadamente baja en nuestro edificio en Outer Ring Road. Apenas nos llega agua a los pisos superiores.,Spanish,Water Supply,Central Zone,Low,17,2026-01-31 14:22:47,OFF_003
+COM_0057,Ruido continuo de construcción por la noche en Commercial Street. Trabajan fuera del horario legal.,Spanish,Public Health,Central Zone,Low,6,2025-07-03 07:56:47,OFF_019
+COM_0058,Les clôtures sont cassées et les bancs vandalisés dans le jardin public près de Sardar Patel Marg.,French,Housing & Infrastructure,North Zone,Low,15,2026-03-25 17:49:47,OFF_049
+COM_0059,सीवर से लेकर Senapati Bapat Marg के फुटपाथ तक कॉकरोच फैल गए हैं।,Hindi,Public Health,East Zone,Medium,12,2025-12-08 14:06:47,OFF_020
+COM_0060,La superficie de la carretera en Lal Bahadur Shastri Marg está llena de baches profundos. Necesita parches antes de un accidente.,Spanish,Traffic & Roads,South Zone,Medium,5,2025-11-07 22:37:47,OFF_019
+COM_0061,"Linking Road के पास की फैक्ट्री से स्थानीय नाले में अवैध रसायन बहाया जा रहा है, जिससे मछलियां मर रही हैं।",Hindi,Environmental Protection,West Zone,High,4,2026-03-27 10:02:47,OFF_029
+COM_0062,Multiple residents on Vittal Mallya Road report falling sick from tap water. The water color is yellowish and murky.,English,Water Supply,North Zone,High,3,2025-08-16 01:37:47,OFF_002
+COM_0063,Les clôtures sont cassées et les bancs vandalisés dans le jardin public près de Lal Bahadur Shastri Marg.,French,Housing & Infrastructure,North Zone,Low,13,2026-04-14 22:03:47,OFF_049
+COM_0064,Janpath公园内的游乐场设施损坏且生锈。对儿童玩耍很不安全。,Chinese,Housing & Infrastructure,North Zone,Low,10,2025-07-14 12:13:47,OFF_031
+COM_0065,"A slab of pavement is missing on the sidewalk of Brigade Road, leaving an open muddy hole.",English,Housing & Infrastructure,East Zone,Low,5,2025-06-26 08:29:47,OFF_023
+COM_0066,Los semáforos en la intersección de Hazratganj están apagados. El tráfico es un caos y hay peligro de choques.,Spanish,Traffic & Roads,West Zone,High,1,2025-08-26 01:46:47,OFF_019
+COM_0067,Chhatrapati Shivaji Maharaj Marg附近的公共花园围栏破损，长椅遭到恶意破坏。,Chinese,Housing & Infrastructure,West Zone,Low,8,2026-01-20 19:23:47,OFF_024
+COM_0068,The grocery store at Outer Ring Road is selling expired meat and dairy products. The smell is awful.,English,Public Health,Central Zone,High,4,2026-03-25 08:47:47,OFF_029
+COM_0069,Bruit de chantier continu la nuit sur Outer Ring Road. Ils travaillent au-delà des heures légales.,French,Public Health,South Zone,Low,8,2025-07-22 06:31:47,OFF_021
+COM_0070,Outer Ring Road上的一个变压器漏油并发出巨大的嗡嗡声。偶尔有火花冒出。,Chinese,Electricity & Power,North Zone,High,3,2025-10-15 23:43:47,OFF_018
+COM_0071,Uneven sidewalk slabs at Senapati Bapat Marg make it impossible for wheelchair users to navigate safely.,English,Housing & Infrastructure,East Zone,Low,8,2025-11-25 06:47:47,OFF_023
+COM_0072,Accumulation de terre et de verre brisé sur le côté de Linking Road. C'est dangereux pour les cyclistes.,French,Sanitation,North Zone,Low,7,2026-01-09 00:44:47,OFF_021
+COM_0073,Varias farolas en Outer Ring Road no funcionan hace una semana. La calle está oscura y es insegura.,Spanish,Traffic & Roads,East Zone,Low,5,2025-08-04 17:03:47,OFF_019
+COM_0074,Brigade Road门前的路灯不停闪烁。非常烦人，让我们无法入睡。,Chinese,Traffic & Roads,East Zone,Low,15,2025-10-27 23:02:47,OFF_020
+COM_0075,"Linking Road के बीच में एक गहरा और खतरनाक गड्ढा है। कारें इससे बचने के लिए मुड़ रही हैं, जो कि जोखिम भरा है।",Hindi,Traffic & Roads,South Zone,Medium,10,2026-03-10 10:12:47,OFF_020
+COM_0076,Overgrown weeds and trash piles in the local park at Park Street. It looks neglected and abandoned.,English,Housing & Infrastructure,North Zone,Low,13,2025-12-10 19:30:47,OFF_046
+COM_0077,Presión de agua extremadamente baja en nuestro edificio en MG Road. Apenas nos llega agua a los pisos superiores.,Spanish,Water Supply,Central Zone,Low,14,2025-09-19 19:11:47,OFF_003
+COM_0078,"Rejet chimique illégal de l'usine dans le ruisseau local près de Golf Course Road, tuant les poissons.",French,Environmental Protection,North Zone,High,2,2026-02-05 02:13:47,OFF_007
+COM_0079,Necesitamos limpieza de calles en Vittal Mallya Road. Los escombros en el borde de la acera bloquean las alcantarillas.,Spanish,Sanitation,East Zone,Low,15,2025-08-16 12:48:47,OFF_013
+COM_0080,我们在Sardar Patel Marg的自来水管道里流出脏水。有奇怪的残留物，请检查当地水库。,Chinese,Water Supply,North Zone,High,1,2026-01-11 07:01:47,OFF_002
+COM_0081,La chaussée sur Chandni Chowk est pleine de nids-de-poule profonds. Il faut la réparer avant un accident grave.,French,Traffic & Roads,North Zone,Medium,3,2026-01-16 01:49:47,OFF_014
+COM_0082,Netaji Subhash Chandra Bose Road上堆积了大量的落叶、泥土和砂石。扫路车已经一个月没来了。,Chinese,Sanitation,East Zone,Low,13,2026-03-14 05:11:47,OFF_020
+COM_0083,Las losas de acera desiguales en Commercial Street hacen imposible que usuarios de sillas de ruedas circulen seguros.,Spanish,Housing & Infrastructure,South Zone,Low,10,2026-03-29 23:24:47,OFF_019
+COM_0084,Grietas estructurales profundas descubiertas en el muro de contención del bloque de pisos en Sardar Patel Marg.,Spanish,Housing & Infrastructure,South Zone,High,1,2025-06-05 10:57:47,OFF_051
+COM_0085,MG Road处的混凝土建筑外墙部分脱落掉在马路上。结构看起来很不安全。,Chinese,Housing & Infrastructure,South Zone,High,2,2025-12-30 15:14:47,OFF_053
+COM_0086,ट्रक Chandni Chowk के पास रात में अवैध रूप से औद्योगिक कचरा डाल रहे हैं। रसायन मिट्टी में लीक हो रहे हैं।,Hindi,Environmental Protection,Central Zone,Medium,10,2025-09-19 18:09:47,OFF_029
+COM_0087,在Vittal Mallya Road附近的林区发现非法砍伐活动。多棵树木被砍倒。,Chinese,Environmental Protection,North Zone,Medium,7,2026-05-15 02:38:47,OFF_039
+COM_0088,"The factory near Mall Road is emitting thick, black chemical smoke. It is hard to breathe in the neighborhood.",English,Environmental Protection,Central Zone,High,3,2026-04-13 19:44:47,OFF_054
+COM_0089,"Notre compteur d'électricité à Janpath est éteint, l'écran est vide mais le courant passe.",French,Electricity & Power,Central Zone,Low,10,2026-05-23 03:01:47,OFF_032
+COM_0090,开发商在未获得环保许可的情况下，清除Commercial Street公共土地上的树木。,Chinese,Environmental Protection,West Zone,Medium,5,2025-11-18 13:32:47,OFF_017
+COM_0091,Continuous loud construction noise at night on Golf Course Road. They are working past the legal curfew.,English,Public Health,East Zone,Low,5,2026-05-15 14:11:47,OFF_020
+COM_0092,"Water is gushing out of the street near Dr. B.R. Ambedkar Road. The entire sidewalk is submerged, please send repair teams.",English,Water Supply,East Zone,High,2,2026-03-25 16:42:47,OFF_014
+COM_0093,The street lamp in front of Chandni Chowk is flickering continuously. It's very annoying and keeps us awake.,English,Traffic & Roads,West Zone,Low,5,2026-04-01 08:29:47,OFF_017
+COM_0094,Linking Road的水压已经降到了细流。洗碗或洗澡都很困难。,Chinese,Water Supply,West Zone,Low,8,2026-03-09 10:14:47,OFF_002
+COM_0095,Golf Course Road公园内的游乐场设施损坏且生锈。对儿童玩耍很不安全。,Chinese,Housing & Infrastructure,Central Zone,Low,9,2026-04-30 21:24:47,OFF_031
+COM_0096,Rupture massive de canalisation à Outer Ring Road. Des centaines de gallons d'eau propre sont gaspillés et inondent les maisons.,French,Water Supply,East Zone,High,1,2026-03-14 20:32:47,OFF_014
+COM_0097,There is a major water main burst on Hazratganj. Flooding is spreading quickly on the road.,English,Water Supply,South Zone,High,2,2025-08-17 10:26:47,OFF_001
+COM_0098,工厂向Jawaharlal Nehru Marg附近的溪流中非法排放化学物质，导致鱼类死亡。,Chinese,Environmental Protection,North Zone,High,3,2025-07-09 07:35:47,OFF_002
+COM_0099,"Vittal Mallya Road के पास की फैक्ट्री से स्थानीय नाले में अवैध रसायन बहाया जा रहा है, जिससे मछलियां मर रही हैं।",Hindi,Environmental Protection,West Zone,High,2,2026-01-04 02:25:47,OFF_024
+COM_0100,在Hazratganj附近的林区发现非法砍伐活动。多棵树木被砍倒。,Chinese,Environmental Protection,East Zone,Medium,5,2025-06-01 05:26:47,OFF_020
+COM_0101,"Des tas de déchets malodorants sur le trottoir de Mall Road. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,North Zone,Low,5,2025-08-03 11:41:47,OFF_016
+COM_0102,有人在Chandni Chowk路边倾倒电子电器和旧床垫。,Chinese,Environmental Protection,North Zone,Medium,8,2026-01-06 23:36:47,OFF_031
+COM_0103,我们在SP Road的自来水管道里流出脏水。有奇怪的残留物，请检查当地水库。,Chinese,Water Supply,West Zone,High,2,2025-07-26 11:08:47,OFF_001
+COM_0104,Chandni Chowk附近出现了一个大坑洼。今天已经有几辆车因此爆胎和车轮受损。,Chinese,Traffic & Roads,North Zone,Medium,3,2026-01-07 17:32:47,OFF_053
+COM_0105,Mall Road के पास सड़क पर बिजली का तार गिरा हुआ है। यह चालू है और बेहद खतरनाक है।,Hindi,Electricity & Power,South Zone,High,1,2026-02-14 19:14:47,OFF_034
+COM_0106,"Nuestro medidor de energía en Chandni Chowk está completamente apagado, la pantalla está en blanco.",Spanish,Electricity & Power,South Zone,Low,8,2025-09-07 04:45:47,OFF_035
+COM_0107,"Lots of leaves, dirt, and gravel have accumulated on Senapati Bapat Marg. The street sweeper hasn't visited in a month.",English,Sanitation,West Zone,Low,17,2026-03-14 19:47:47,OFF_013
+COM_0108,"Le transformateur électrique a explosé avec un grand bruit à Vittal Mallya Road. De la fumée s'élève, plus de courant.",French,Electricity & Power,North Zone,High,3,2025-10-16 17:10:47,OFF_032
+COM_0109,The street lamp in front of Vittal Mallya Road is flickering continuously. It's very annoying and keeps us awake.,English,Traffic & Roads,West Zone,Medium,7,2026-04-24 01:46:47,OFF_019
+COM_0110,"SP Road पर हमारा बिजली मीटर पूरी तरह से बंद है, स्क्रीन खाली है लेकिन बिजली अभी भी चल रही है।",Hindi,Electricity & Power,Central Zone,Low,7,2026-03-17 19:19:47,OFF_033
+COM_0111,टूटी हुई लाइटों के कारण Linking Road पर सड़क पर अंधेरा है। यह रात के यात्रियों के लिए एक सुरक्षा खतरा है।,Hindi,Traffic & Roads,North Zone,Low,12,2025-07-11 15:48:47,OFF_021
+COM_0112,Vertido ilegal de bolsas de basura doméstica en Vittal Mallya Road. Bloquea el acceso peatonal y genera insalubridad.,Spanish,Sanitation,West Zone,Medium,6,2025-12-01 11:05:47,OFF_010
+COM_0113,"Janpath पर ट्रैफिक सिग्नल सभी दिशाओं में लाल रंग पर अटका हुआ है। भारी ट्रैफिक जाम, कृपया अधिकारी भेजें।",Hindi,Traffic & Roads,North Zone,High,1,2025-11-13 02:42:47,OFF_021
+COM_0114,Odeur fétide de soufre provenant de l'usine industrielle à Janpath. Cela donne des maux de tête.,French,Environmental Protection,South Zone,High,3,2025-11-03 19:51:47,OFF_001
+COM_0115,"Descarga química ilegal de la fábrica en el arroyo local cerca de Jawaharlal Nehru Marg, matando peces.",Spanish,Environmental Protection,East Zone,High,3,2026-05-07 22:00:47,OFF_006
+COM_0116,有人在Golf Course Road附近的自然保护公园内擅自砍伐受保护的古树。,Chinese,Environmental Protection,Central Zone,Medium,5,2025-08-29 05:28:47,OFF_039
+COM_0117,Los juegos del parque infantil en Linking Road están rotos y oxidados. Es peligroso para los niños.,Spanish,Housing & Infrastructure,South Zone,High,9,2025-11-17 18:15:47,OFF_049
+COM_0118,El transformador eléctrico explotó con un fuerte estallido en Brigade Road. Sale humo y no hay luz.,Spanish,Electricity & Power,Central Zone,High,2,2026-01-08 00:33:47,OFF_033
+COM_0119,La farola frente a Janpath parpadea continuamente. Es muy molesto y no nos deja dormir.,Spanish,Traffic & Roads,East Zone,Low,10,2026-02-26 06:26:47,OFF_031
+COM_0120,Maleza alta y basura en el parque local de SP Road. Parece descuidado y abandonado.,Spanish,Housing & Infrastructure,West Zone,Low,15,2025-12-10 15:40:47,OFF_010
+COM_0121,Una plaga de cucarachas se ha extendido de los desagües del alcantarillado a la acera en Linking Road.,Spanish,Public Health,East Zone,Medium,10,2026-03-08 02:52:47,OFF_027
+COM_0122,"A slab of pavement is missing on the sidewalk of Jawaharlal Nehru Marg, leaving an open muddy hole.",English,Housing & Infrastructure,South Zone,Low,8,2026-01-07 02:05:47,OFF_053
+COM_0123,Les égouts débordent sur Golf Course Road. Des eaux usées noires et malodorantes inondent la rue et les allées.,French,Sanitation,North Zone,High,2,2025-12-12 01:30:47,OFF_002
+COM_0124,Les ordures n'ont pas été ramassées sur Mall Road depuis plus de deux semaines. Les bacs débordent sur la rue.,French,Sanitation,South Zone,Medium,6,2026-05-20 03:55:47,OFF_016
+COM_0125,"MG Road के पास की फैक्ट्री से स्थानीय नाले में अवैध रसायन बहाया जा रहा है, जिससे मछलियां मर रही हैं।",Hindi,Environmental Protection,North Zone,High,4,2026-04-05 15:34:47,OFF_024
+COM_0126,"Nos sale agua sucia de los grifos en Dr. B.R. Ambedkar Road. Tiene un residuo extraño, por favor revisen el depósito local.",Spanish,Water Supply,North Zone,High,4,2026-01-18 01:14:47,OFF_006
+COM_0127,MG Road附近的公共花园围栏破损，长椅遭到恶意破坏。,Chinese,Housing & Infrastructure,Central Zone,Low,9,2026-01-02 23:46:47,OFF_052
+COM_0128,Brigade Road附近出现了一个大坑洼。今天已经有几辆车因此爆胎和车轮受损。,Chinese,Traffic & Roads,North Zone,Medium,4,2026-02-22 16:39:47,OFF_053
+COM_0129,Lal Bahadur Shastri Marg的水泥人行道被树根拱起开裂，造成严重绊倒隐患。,Chinese,Housing & Infrastructure,West Zone,Medium,8,2025-06-06 10:57:47,OFF_053
+COM_0130,Varios residentes en Dr. B.R. Ambedkar Road informan haberse enfermado por el agua del grifo. El agua es amarillenta y turbia.,Spanish,Water Supply,Central Zone,High,1,2025-06-20 10:41:47,OFF_008
+COM_0131,Calle oscura en Vittal Mallya Road debido a luminarias rotas. Es un peligro para quienes viajan de noche.,Spanish,Traffic & Roads,West Zone,Low,5,2026-01-18 00:25:47,OFF_019
+COM_0132,La basura no se ha recogido en Mall Road durante más de dos semanas. Los contenedores se desbordan en la calle.,Spanish,Sanitation,East Zone,Medium,8,2025-10-05 00:55:47,OFF_013
+COM_0133,Des camions déversent des déchets industriels la nuit près de Netaji Subhash Chandra Bose Road. Les produits s'infiltrent dans le sol.,French,Environmental Protection,East Zone,Medium,8,2025-12-19 22:35:47,OFF_014
+COM_0134,La tienda de comestibles en Senapati Bapat Marg vende carne y lácteos vencidos. El olor es horrible.,Spanish,Public Health,East Zone,High,2,2026-01-01 01:34:47,OFF_006
+COM_0135,Mall Road附近的马路上有一根掉落的电缆。它仍然带电，极其危险。,Chinese,Electricity & Power,North Zone,High,2,2026-01-12 18:52:47,OFF_031
+COM_0136,हमने Vittal Mallya Road के पार्क में बच्चों के खेलने के क्षेत्र के पास ततैया का एक बड़ा झुंड देखा है।,Hindi,Public Health,North Zone,Medium,8,2026-01-06 07:47:47,OFF_024
+COM_0137,Deep structural cracking discovered in the retaining wall of the apartment block at Lal Bahadur Shastri Marg.,English,Housing & Infrastructure,East Zone,High,4,2025-08-17 23:16:47,OFF_048
+COM_0138,"Linking Road पर कंक्रीट का फुटपाथ पेड़ की जड़ों से मुड़ गया है और टूट गया है, जिससे गिरने का खतरा है।",Hindi,Housing & Infrastructure,North Zone,Low,10,2025-11-30 11:43:47,OFF_042
+COM_0139,"Durante los últimos tres días, el flujo de agua es muy débil en Vittal Mallya Road. Por favor investiguen las líneas de suministro.",Spanish,Water Supply,East Zone,Low,10,2025-08-07 15:30:47,OFF_005
+COM_0140,J'ai vu des rats courir dans la cuisine du restaurant sur Dr. B.R. Ambedkar Road. C'est une menace majeure pour l'hygiène.,French,Public Health,North Zone,High,5,2025-12-13 16:14:47,OFF_025
+COM_0141,Janpath के चौराहे पर ट्रैफिक लाइट पूरी तरह से बंद है। यातायात अव्यवस्थित है और दुर्घटना का खतरा है।,Hindi,Traffic & Roads,East Zone,High,1,2025-07-30 04:01:47,OFF_020
+COM_0142,Varios residentes en Vittal Mallya Road informan haberse enfermado por el agua del grifo. El agua es amarillenta y turbia.,Spanish,Water Supply,North Zone,High,3,2025-11-22 21:11:47,OFF_006
+COM_0143,"Notre compteur d'électricité à Brigade Road est éteint, l'écran est vide mais le courant passe.",French,Electricity & Power,South Zone,Low,7,2025-09-08 03:22:47,OFF_032
+COM_0144,Overgrown weeds and trash piles in the local park at Park Street. It looks neglected and abandoned.,English,Housing & Infrastructure,Central Zone,Low,11,2025-07-12 01:26:47,OFF_049
+COM_0145,"Golf Course Road का एक निवासी पूरे दिन शोर करने वाला जनरेटर चला रहा है, जिससे अत्यधिक शोर कंपन पैदा हो रहा है।",Hindi,Public Health,West Zone,Low,5,2025-11-07 19:11:47,OFF_017
+COM_0146,Linking Road的杂货店正在出售过期的肉类和奶制品。气味非常难闻。,Chinese,Public Health,Central Zone,High,1,2026-01-05 16:05:47,OFF_024
+COM_0147,Deep structural cracking discovered in the retaining wall of the apartment block at Linking Road.,English,Housing & Infrastructure,East Zone,High,3,2025-09-21 10:40:47,OFF_048
+COM_0148,"Il y a un nid-de-poule profond et dangereux au milieu de Park Street. Les voitures l'évitent, ce qui est risqué.",French,Traffic & Roads,East Zone,Medium,8,2026-02-26 01:39:47,OFF_032
+COM_0149,有人在Linking Road路边倾倒电子电器和旧床垫。,Chinese,Environmental Protection,South Zone,Medium,12,2025-11-17 17:09:47,OFF_031
+COM_0150,The balcony wall of the older building at SP Road has large cracks and looks ready to collapse onto the sidewalk.,English,Housing & Infrastructure,East Zone,High,3,2026-04-10 19:08:47,OFF_048
+COM_0151,Outer Ring Road上夜间持续发生巨大的施工噪音。他们正在超出法定时间工作。,Chinese,Public Health,West Zone,Low,10,2025-12-22 08:36:47,OFF_017
+COM_0152,The water pressure on Vittal Mallya Road has dropped to a trickle. It's difficult to wash dishes or shower.,English,Water Supply,West Zone,Low,10,2026-04-04 03:27:47,OFF_005
+COM_0153,Les dalles de trottoir inégales à Chandni Chowk rendent l'accès impossible pour les fauteuils roulants.,French,Housing & Infrastructure,West Zone,Low,9,2026-03-12 02:27:47,OFF_021
+COM_0154,"The main drainage manhole is overflowing at Vittal Mallya Road. Sewage water is bubbling up, creating a health hazard.",English,Sanitation,South Zone,High,1,2025-12-11 18:33:47,OFF_001
+COM_0155,Dépôt illégal de sacs poubelles sur la rue Mall Road. Cela bloque le passage et crée des conditions insalubres.,French,Sanitation,South Zone,Medium,8,2026-01-23 15:03:47,OFF_016
+COM_0156,The traffic lights at the intersection of Lal Bahadur Shastri Marg are completely dead. Traffic is in chaos and accidents are near.,English,Traffic & Roads,Central Zone,High,1,2026-03-23 10:10:47,OFF_018
+COM_0157,Senapati Bapat Marg के कई निवासियों ने नल के पानी से बीमार होने की शिकायत की है। पानी का रंग पीला और मटमैला है।,Hindi,Water Supply,East Zone,High,1,2025-08-05 07:53:47,OFF_008
+COM_0158,Les feux de signalisation à l'intersection de Lal Bahadur Shastri Marg sont en panne. C'est le chaos et les accidents sont proches.,French,Traffic & Roads,North Zone,High,1,2026-03-08 08:11:47,OFF_021
+COM_0159,"Sardar Patel Marg का एक निवासी पूरे दिन शोर करने वाला जनरेटर चला रहा है, जिससे अत्यधिक शोर कंपन पैदा हो रहा है।",Hindi,Public Health,Central Zone,Low,5,2025-07-17 11:30:47,OFF_021
+COM_0160,Linking Road的社区公园里杂草丛生，垃圾堆积。看起来破败不堪，无人打理。,Chinese,Housing & Infrastructure,South Zone,Low,15,2025-06-18 00:09:47,OFF_053
+COM_0161,Nous avons besoin d'un balayage de rue sur Hazratganj. Les débris bloquent les gouttières.,French,Sanitation,West Zone,Low,9,2026-04-07 09:17:47,OFF_014
+COM_0162,"Un habitant de la rue Mall Road fait tourner un générateur bruyant toute la journée, créant des vibrations.",French,Public Health,Central Zone,Low,6,2026-03-13 08:37:47,OFF_032
+COM_0163,Une partie de la façade en béton d'un immeuble est tombée sur la route à Dr. B.R. Ambedkar Road. La structure semble instable.,French,Housing & Infrastructure,West Zone,High,4,2026-04-15 23:45:47,OFF_048
+COM_0164,多人在吃完Chhatrapati Shivaji Maharaj Marg的小吃摊后发生食物中毒。请立即去检查。,Chinese,Public Health,North Zone,High,3,2026-04-16 22:46:47,OFF_024
+COM_0165,Las cercas están rotas y los bancos vandalizados en el jardín público cerca de Chhatrapati Shivaji Maharaj Marg.,Spanish,Housing & Infrastructure,North Zone,Low,7,2025-06-07 13:27:47,OFF_046
+COM_0166,सीवर से लेकर Commercial Street के फुटपाथ तक कॉकरोच फैल गए हैं।,Hindi,Public Health,West Zone,Medium,9,2025-06-29 21:15:47,OFF_017
+COM_0167,Senapati Bapat Marg附近的马路上有一根掉落的电缆。它仍然带电，极其危险。,Chinese,Electricity & Power,Central Zone,High,1,2026-02-25 09:41:47,OFF_031
+COM_0168,Rue sombre à Senapati Bapat Marg à cause de luminaires cassés. C'est dangereux pour les usagers de nuit.,French,Traffic & Roads,South Zone,Low,10,2025-10-28 06:26:47,OFF_032
+COM_0169,Las cercas están rotas y los bancos vandalizados en el jardín público cerca de Senapati Bapat Marg.,Spanish,Housing & Infrastructure,East Zone,Low,11,2025-07-30 17:50:47,OFF_049
+COM_0170,Linking Road पर एक ट्रांसफार्मer से तेल लीक हो रहा है और तेज़ गुनगुनाहट आ रही है। कभी-कभी चिंगारियां निकलती हैं।,Hindi,Electricity & Power,East Zone,Low,5,2026-01-10 19:23:47,OFF_020
+COM_0171,La fábrica cerca de Park Street emite humo químico negro y denso. Es difícil respirar en el vecindario.,Spanish,Environmental Protection,East Zone,High,3,2025-07-23 18:54:47,OFF_040
+COM_0172,"Una rama cayó y rompió un cable eléctrico en Hazratganj. Hay chispas en la acera mojada, ¡urgente!",Spanish,Electricity & Power,South Zone,High,1,2025-12-26 09:52:47,OFF_031
+COM_0173,Hay una grave plaga de ratas en el callejón público cerca de Park Street. Muerden los cubos de basura.,Spanish,Public Health,South Zone,Medium,8,2026-04-27 05:55:47,OFF_024
+COM_0174,"Le signal piéton clignote de manière erratique sur Netaji Subhash Chandra Bose Road, semant la confusion pour les piétons.",French,Traffic & Roads,North Zone,High,2,2025-06-17 04:33:47,OFF_021
+COM_0175,Part of a concrete building facade fell onto the road at Senapati Bapat Marg. The structure looks unsafe.,English,Housing & Infrastructure,South Zone,High,1,2025-06-02 08:43:47,OFF_051
+COM_0176,Un câble électrique abattu gît sur la chaussée près de Vittal Mallya Road. Il est sous tension et extrêmement dangereux.,French,Electricity & Power,Central Zone,High,2,2026-01-23 07:19:47,OFF_032
+COM_0177,Le mur du balcon de l'ancien immeuble à Vittal Mallya Road présente de larges fissures et semble sur le point de s'effondrer.,French,Housing & Infrastructure,East Zone,High,2,2025-11-17 08:43:47,OFF_048
+COM_0178,Vertido de electrodomésticos y colchones viejos al costado del camino en Lal Bahadur Shastri Marg.,Spanish,Environmental Protection,West Zone,Medium,6,2026-05-06 02:18:47,OFF_037
+COM_0179,Les égouts débordent sur MG Road. Des eaux usées noires et malodorantes inondent la rue et les allées.,French,Sanitation,East Zone,High,4,2025-11-13 08:44:47,OFF_007
+COM_0180,Illegal lumbering activities detected at the woodland area near Chandni Chowk. Multiple trees are felled.,English,Environmental Protection,South Zone,High,6,2025-08-18 11:50:47,OFF_042
+COM_0181,Le compteur intelligent à Dr. B.R. Ambedkar Road affiche le code d'erreur E-12. Veuillez envoyer un technicien.,French,Electricity & Power,East Zone,Low,8,2025-08-05 14:16:47,OFF_032
+COM_0182,Golf Course Road上夜间持续发生巨大的施工噪音。他们正在超出法定时间工作。,Chinese,Public Health,Central Zone,Low,9,2026-05-04 05:55:47,OFF_018
+COM_0183,Hazratganj上堆积了大量的落叶、泥土和砂石。扫路车已经一个月没来了。,Chinese,Sanitation,West Zone,Low,10,2026-03-13 02:10:47,OFF_017
+COM_0184,SP Road的水泥人行道被树根拱起开裂，造成严重绊倒隐患。,Chinese,Housing & Infrastructure,Central Zone,Low,11,2026-02-19 13:14:47,OFF_053
+COM_0185,卡车夜间在Jawaharlal Nehru Marg附近非法倾倒工业垃圾。化学物质正渗入土壤。,Chinese,Environmental Protection,Central Zone,Medium,6,2025-08-04 15:33:47,OFF_044
+COM_0186,"A resident on Vittal Mallya Road is running a noisy generator all day, generating excessive noise vibrations.",English,Public Health,East Zone,Low,5,2025-05-30 22:20:47,OFF_036
+COM_0187,There is a downed power cable laying across the street near Chandni Chowk. It's active and extremely dangerous.,English,Electricity & Power,North Zone,High,1,2026-01-25 00:25:47,OFF_031
+COM_0188,Una plaga de cucarachas se ha extendido de los desagües del alcantarillado a la acera en Golf Course Road.,Spanish,Public Health,East Zone,Medium,8,2025-12-08 11:12:47,OFF_027
+COM_0189,有人在Chandni Chowk附近的自然保护公园内擅自砍伐受保护的古树。,Chinese,Environmental Protection,North Zone,Medium,8,2026-02-23 03:53:47,OFF_039
+COM_0190,"Smelly piles of garbage on the sidewalk of Vittal Mallya Road. It's attracting rats and flies, please send garbage trucks.",English,Sanitation,Central Zone,Medium,5,2025-10-02 13:29:47,OFF_007
+COM_0191,La línea de alcantarillado bloqueada ha hecho que las aguas residuales regresen a los sótanos en Dr. B.R. Ambedkar Road.,Spanish,Sanitation,North Zone,High,5,2025-06-06 06:20:47,OFF_006
+COM_0192,Vittal Mallya Road发生主水管爆裂。积水正在马路上迅速蔓延。,Chinese,Water Supply,Central Zone,High,1,2025-06-20 11:35:47,OFF_001
+COM_0193,"Se han acumulado muchas hojas, tierra y grava en Linking Road. La barredora de calles no pasa hace un mes.",Spanish,Sanitation,Central Zone,Low,14,2026-03-19 09:43:47,OFF_019
+COM_0194,"Le compteur d'électricité de ma maison sur Outer Ring Road tourne extrêmement vite, triplant notre facture.",French,Electricity & Power,South Zone,Low,10,2025-10-29 07:10:47,OFF_032
+COM_0195,El medidor inteligente en Golf Course Road muestra el código de error E-12. Envíen un técnico por favor.,Spanish,Electricity & Power,Central Zone,Low,14,2026-05-07 11:57:47,OFF_037
+COM_0196,Linking Road पर एक ट्रांसफार्मer से तेल लीक हो रहा है और तेज़ गुनगुनाहट आ रही है। कभी-कभी चिंगारियां निकलती हैं।,Hindi,Electricity & Power,East Zone,High,3,2025-09-29 06:26:47,OFF_020
+COM_0197,"Falta una losa de pavimento en la acera de Netaji Subhash Chandra Bose Road, dejando un agujero de barro abierto.",Spanish,Housing & Infrastructure,Central Zone,Low,10,2026-02-24 03:31:47,OFF_015
+COM_0198,"La alcantarilla principal se está desbordando en Jawaharlal Nehru Marg. El agua de alcantarillado brota, creando peligro.",Spanish,Sanitation,West Zone,High,2,2025-09-03 00:24:47,OFF_005
+COM_0199,Netaji Subhash Chandra Bose Road的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,North Zone,Low,9,2026-05-07 16:20:47,OFF_018
+COM_0200,Nous avons remarqué un essaim de guêpes près de l'aire de jeux pour enfants dans le parc à MG Road.,French,Public Health,South Zone,Medium,7,2026-01-29 06:51:47,OFF_049
+COM_0201,"Nuestro medidor de energía en Chhatrapati Shivaji Maharaj Marg está completamente apagado, la pantalla está en blanco.",Spanish,Electricity & Power,Central Zone,Low,11,2026-01-22 16:48:47,OFF_033
+COM_0202,"Le feu de signalisation sur Hazratganj est bloqué au rouge. Énorme embouteillage, veuillez envoyer des agents.",French,Traffic & Roads,West Zone,High,2,2025-09-10 10:27:47,OFF_021
+COM_0203,Linking Road附近的公共小巷里鼠患严重。老鼠正在啃咬垃圾箱。,Chinese,Public Health,North Zone,Medium,10,2025-12-28 08:16:47,OFF_024
+COM_0204,"La alcantarilla principal se está desbordando en SP Road. El agua de alcantarillado brota, creando peligro.",Spanish,Sanitation,South Zone,High,3,2026-02-03 22:48:47,OFF_006
+COM_0205,"Chandni Chowk के पास की फैक्ट्री से घना, काला रासायनिक धुआं निकल रहा है। पड़ोस में सांस लेना मुश्किल है।",Hindi,Environmental Protection,South Zone,High,4,2026-03-02 19:10:47,OFF_034
+COM_0206,High-voltage electrical wire hanging very low over the sidewalk at Netaji Subhash Chandra Bose Road. Pedestrians are in danger.,English,Electricity & Power,North Zone,High,1,2025-08-13 23:20:47,OFF_031
+COM_0207,"Le transformateur électrique a explosé avec un grand bruit à Janpath. De la fumée s'élève, plus de courant.",French,Electricity & Power,Central Zone,High,3,2025-06-05 23:41:47,OFF_032
+COM_0208,"The electric transformer exploded with a loud bang at Hazratganj. Smoke is rising, and power is out.",English,Electricity & Power,East Zone,High,1,2026-02-10 21:50:47,OFF_034
+COM_0209,There is a severe rat infestation in the public alley near Hazratganj. They are chewing through trash bins.,English,Public Health,South Zone,Medium,10,2025-10-05 10:24:47,OFF_024
+COM_0210,Overgrown weeds and trash piles in the local park at Lal Bahadur Shastri Marg. It looks neglected and abandoned.,English,Housing & Infrastructure,West Zone,Low,10,2026-05-14 01:48:47,OFF_049
+COM_0211,"The concrete sidewalk at Lal Bahadur Shastri Marg is buckled and cracked by tree roots, posing a severe tripping hazard.",English,Housing & Infrastructure,West Zone,Low,6,2026-04-19 23:51:47,OFF_053
+COM_0212,"Mall Road के फुटपाथ पर बदबूदार कचरे का ढेर लगा है। इससे चूहे और मक्खियां आ रही हैं, कृपया कचरा गाड़ी भेजें।",Hindi,Sanitation,Central Zone,Medium,5,2025-06-19 06:20:47,OFF_024
+COM_0213,Sardar Patel Marg人行道上缺了一块铺路石板，留下一个敞开的泥坑。,Chinese,Housing & Infrastructure,North Zone,Low,10,2026-03-03 17:49:47,OFF_053
+COM_0214,Il y a une rupture majeure de canalisation d'eau sur Commercial Street. L'inondation se propage rapidement sur la route.,French,Water Supply,Central Zone,High,3,2025-07-07 08:17:47,OFF_007
+COM_0215,Park Street附近的马路上有一根掉落的电缆。它仍然带电，极其危险。,Chinese,Electricity & Power,East Zone,High,2,2025-07-08 15:54:47,OFF_036
+COM_0216,A large pothole has opened up near Chhatrapati Shivaji Maharaj Marg. Several vehicles have suffered damaged tires and rims today.,English,Traffic & Roads,North Zone,Medium,12,2026-03-29 11:56:47,OFF_053
+COM_0217,Un grand nid-de-poule s'est formé près de Senapati Bapat Marg. Plusieurs véhicules ont eu des pneus crevés aujourd'hui.,French,Traffic & Roads,South Zone,Medium,8,2025-09-01 20:44:47,OFF_021
+COM_0218,"Illegal chemical discharge from the factory into the local stream near Outer Ring Road, killing fish.",English,Environmental Protection,South Zone,High,2,2025-08-15 11:52:47,OFF_001
+COM_0219,Las losas de acera desiguales en Lal Bahadur Shastri Marg hacen imposible que usuarios de sillas de ruedas circulen seguros.,Spanish,Housing & Infrastructure,East Zone,Low,5,2025-11-02 13:30:47,OFF_049
+COM_0220,The playground equipment at the park on Jawaharlal Nehru Marg is broken and rusty. It is hazardous for children.,English,Housing & Infrastructure,South Zone,Low,11,2025-06-11 01:29:47,OFF_034
+COM_0221,Mall Road人行道上方悬挂着一根很低的压电线。行人面临触电危险。,Chinese,Electricity & Power,West Zone,Medium,2,2026-03-11 06:43:47,OFF_031
+COM_0222,"Linking Road पर एक पेड़ की शाखा गिरने से बिजली का तार टूट गया है। गीले फुटपाथ पर चिंगारियां निकल रही हैं, तत्काल मदद चाहिए!",Hindi,Electricity & Power,East Zone,High,1,2025-06-30 04:34:47,OFF_020
+COM_0223,"Le feu de signalisation sur Jawaharlal Nehru Marg est bloqué au rouge. Énorme embouteillage, veuillez envoyer des agents.",French,Traffic & Roads,East Zone,High,2,2026-04-14 14:45:47,OFF_021
+COM_0224,"Linking Road पर एक पेड़ की शाखा गिरने से बिजली का तार टूट गया है। गीले फुटपाथ पर चिंगारियां निकल रही हैं, तत्काल मदद चाहिए!",Hindi,Electricity & Power,East Zone,Medium,4,2025-12-09 09:35:47,OFF_020
+COM_0225,Outer Ring Road十字路口的红绿灯完全坏了。交通陷入混乱，险些发生事故。,Chinese,Traffic & Roads,East Zone,High,1,2025-11-05 04:32:47,OFF_020
+COM_0226,"Chhatrapati Shivaji Maharaj Marg पर पैदल यात्री क्रॉसिंग सिग्नल गलत तरीके से चमक रहा है, जिससे भ्रम पैदा हो रहा है।",Hindi,Traffic & Roads,East Zone,High,2,2025-07-26 17:19:47,OFF_020
+COM_0227,El medidor inteligente en Park Street muestra el código de error E-12. Envíen un técnico por favor.,Spanish,Electricity & Power,North Zone,Low,16,2025-09-13 13:58:47,OFF_031
+COM_0228,The street lamp in front of Senapati Bapat Marg is flickering continuously. It's very annoying and keeps us awake.,English,Traffic & Roads,South Zone,Low,7,2026-05-01 03:52:47,OFF_034
+COM_0229,The grocery store at Janpath is selling expired meat and dairy products. The smell is awful.,English,Public Health,West Zone,High,5,2025-06-16 10:51:47,OFF_029
+COM_0230,Jawaharlal Nehru Marg处高低不平的人行道板导致轮椅使用者无法安全通行。,Chinese,Housing & Infrastructure,North Zone,Low,13,2025-11-26 04:48:47,OFF_018
+COM_0231,Lal Bahadur Shastri Marg人行道上方悬挂着一根很低的压电线。行人面临触电危险。,Chinese,Electricity & Power,East Zone,High,1,2025-06-03 02:23:47,OFF_036
+COM_0232,SP Road路边积存的泥土和碎玻璃。对骑自行车的人很危险。,Chinese,Sanitation,Central Zone,Low,13,2026-01-21 20:44:47,OFF_044
+COM_0233,Tala ilegal detectada en el bosque cerca de MG Road. Varios árboles han sido derribados.,Spanish,Environmental Protection,West Zone,Medium,4,2025-07-27 22:16:47,OFF_019
+COM_0234,"Le feu de signalisation sur Commercial Street est bloqué au rouge. Énorme embouteillage, veuillez envoyer des agents.",French,Traffic & Roads,Central Zone,High,1,2026-01-08 22:51:47,OFF_032
+COM_0235,The grocery store at Netaji Subhash Chandra Bose Road is selling expired meat and dairy products. The smell is awful.,English,Public Health,North Zone,Medium,2,2025-09-30 15:18:47,OFF_029
+COM_0236,Fil électrique haute tension suspendu très bas au-dessus du trottoir à Golf Course Road. Les piétons sont en danger.,French,Electricity & Power,West Zone,High,3,2025-08-31 04:47:47,OFF_032
+COM_0237,"Janpath के पास की फैक्ट्री से घना, काला रासायनिक धुआं निकल रहा है। पड़ोस में सांस लेना मुश्किल है।",Hindi,Environmental Protection,South Zone,High,5,2025-05-31 21:20:47,OFF_025
+COM_0238,Blocked sewer line has caused sewage to backup into basement drains in homes on Dr. B.R. Ambedkar Road.,English,Sanitation,Central Zone,High,2,2026-01-18 02:23:47,OFF_007
+COM_0239,工厂向Mall Road附近的溪流中非法排放化学物质，导致鱼类死亡。,Chinese,Environmental Protection,Central Zone,High,6,2025-07-26 10:29:47,OFF_001
+COM_0240,Outer Ring Road公园内的游乐场设施损坏且生锈。对儿童玩耍很不安全。,Chinese,Housing & Infrastructure,Central Zone,Low,9,2025-07-28 06:26:47,OFF_024
+COM_0241,Rupture massive de canalisation à Linking Road. Des centaines de gallons d'eau propre sont gaspillés et inondent les maisons.,French,Water Supply,Central Zone,High,2,2026-03-19 11:34:47,OFF_007
+COM_0242,下水道管线堵塞导致污水倒灌进Brigade Road住户的地下室排水管。,Chinese,Sanitation,Central Zone,High,2,2025-09-01 10:00:47,OFF_002
+COM_0243,Continuous loud construction noise at night on MG Road. They are working past the legal curfew.,English,Public Health,West Zone,Low,8,2026-03-12 15:48:47,OFF_019
+COM_0244,Vittal Mallya Road पर किराना दुकान में एक्सपायरी डेट का मांस और डेयरी उत्पाद बेचे जा रहे हैं। गंध बहुत खराब है।,Hindi,Public Health,West Zone,High,1,2025-10-25 00:24:47,OFF_029
+COM_0245,"Beaucoup de feuilles, de saleté et de gravier accumulés sur Vittal Mallya Road. La balayeuse n'est pas passée depuis un mois.",French,Sanitation,Central Zone,Low,16,2026-02-14 02:43:47,OFF_042
+COM_0246,我们在Park Street的自来水管道里流出脏水。有奇怪的残留物，请检查当地水库。,Chinese,Water Supply,North Zone,High,3,2025-09-17 12:13:47,OFF_002
+COM_0247,Tala ilegal detectada en el bosque cerca de Netaji Subhash Chandra Bose Road. Varios árboles han sido derribados.,Spanish,Environmental Protection,West Zone,Medium,4,2025-07-28 06:20:47,OFF_019
+COM_0248,Chandni Chowk处高低不平的人行道板导致轮椅使用者无法安全通行。,Chinese,Housing & Infrastructure,Central Zone,Low,8,2025-08-08 05:59:47,OFF_018
+COM_0249,Park Street人行道上散发恶臭的垃圾堆。引来了老鼠和苍蝇，请派垃圾车来。,Chinese,Sanitation,East Zone,Medium,4,2026-05-24 08:25:47,OFF_024
+COM_0250,Dr. B.R. Ambedkar Road的电力变压器故障导致整个社区停电，供暖中断。,Chinese,Electricity & Power,South Zone,High,1,2025-10-17 19:15:47,OFF_031
+COM_0251,Alguien arrojó pilas de neumáticos viejos y escombros de construcción en el lote vacío de Mall Road.,Spanish,Environmental Protection,South Zone,Medium,11,2026-02-03 03:43:47,OFF_010
+COM_0252,Vittal Mallya Road पर औद्योगिक संयंत्र से गंदी सल्फर की गंध आ रही है। इससे निवासियों को सिरदर्द हो रहा है।,Hindi,Environmental Protection,North Zone,High,2,2026-02-16 22:24:47,OFF_029
+COM_0253,Mall Road पर औद्योगिक संयंत्र से गंदी सल्फर की गंध आ रही है। इससे निवासियों को सिरदर्द हो रहा है।,Hindi,Environmental Protection,Central Zone,Low,5,2026-01-18 19:49:47,OFF_024
+COM_0254,"Illegal chemical discharge from the factory into the local stream near Lal Bahadur Shastri Marg, killing fish.",English,Environmental Protection,South Zone,High,3,2025-10-13 10:00:47,OFF_001
+COM_0255,Linking Road处的人行道红绿灯闪烁异常，导致过马路的行人和儿童感到困惑。,Chinese,Traffic & Roads,Central Zone,High,3,2025-06-22 00:13:47,OFF_018
+COM_0256,"The factory near Brigade Road is emitting thick, black chemical smoke. It is hard to breathe in the neighborhood.",English,Environmental Protection,West Zone,High,4,2026-05-16 04:03:47,OFF_040
+COM_0257,Olor fétido a azufre proveniente de la planta industrial en Jawaharlal Nehru Marg. Provoca dolores de cabeza a los vecinos.,Spanish,Environmental Protection,East Zone,High,5,2026-04-26 04:10:47,OFF_024
+COM_0258,"Un habitant de la rue Chhatrapati Shivaji Maharaj Marg fait tourner un générateur bruyant toute la journée, créant des vibrations.",French,Public Health,West Zone,Low,5,2025-05-29 05:37:47,OFF_035
+COM_0259,Hazratganj发生主水管爆裂。积水正在马路上迅速蔓延。,Chinese,Water Supply,West Zone,Low,5,2025-07-29 12:51:47,OFF_002
+COM_0260,Sewer is backing up on Lal Bahadur Shastri Marg. Foul-smelling black waste water is flooding the street and driveways.,English,Sanitation,North Zone,High,1,2025-11-05 11:03:47,OFF_002
+COM_0261,"Linking Road के बीच में एक गहरा और खतरनाक गड्ढा है। कारें इससे बचने के लिए मुड़ रही हैं, जो कि जोखिम भरा है।",Hindi,Traffic & Roads,North Zone,Medium,6,2026-04-26 04:35:47,OFF_021
+COM_0262,Calle oscura en Linking Road debido a luminarias rotas. Es un peligro para quienes viajan de noche.,Spanish,Traffic & Roads,West Zone,Low,15,2025-09-17 02:04:47,OFF_019
+COM_0263,Massive pipe burst at Lal Bahadur Shastri Marg. Hundreds of gallons of clean water are being wasted and flooding homes.,English,Water Supply,East Zone,High,1,2025-10-02 07:48:47,OFF_007
+COM_0264,Janpath发生严重水管爆裂。成百上千加仑的干净水正在流失并淹没民房。,Chinese,Water Supply,Central Zone,High,2,2026-05-01 08:20:47,OFF_002
+COM_0265,我位于Lal Bahadur Shastri Marg家里的电表转得极快，计费是正常的三倍。,Chinese,Electricity & Power,East Zone,Low,10,2025-12-12 02:22:47,OFF_036
+COM_0266,Hazratganj上的夜总会在凌晨2点后仍在播放极其吵闹的音乐。居民无法入睡。,Chinese,Public Health,North Zone,Low,5,2025-12-13 17:33:47,OFF_018
+COM_0267,La farola frente a Jawaharlal Nehru Marg parpadea continuamente. Es muy molesto y no nos deja dormir.,Spanish,Traffic & Roads,North Zone,Low,5,2025-09-16 01:06:47,OFF_031
+COM_0268,我们在Hazratganj的自来水管道里流出脏水。有奇怪的残留物，请检查当地水库。,Chinese,Water Supply,West Zone,High,1,2026-04-21 16:41:47,OFF_001
+COM_0269,Une branche d'arbre est tombée et a sectionné un câble électrique sur Outer Ring Road. Des étincelles jaillissent !,French,Electricity & Power,North Zone,High,1,2026-02-27 09:32:47,OFF_032
+COM_0270,"Our power meter at Golf Course Road is completely dead, screen is blank but electricity is still running.",English,Electricity & Power,South Zone,High,12,2026-01-16 18:45:47,OFF_034
+COM_0271,El agua potable en MG Road es de color marrón y huele a químicos. No es segura para consumir.,Spanish,Water Supply,South Zone,High,1,2025-11-22 15:40:47,OFF_006
+COM_0272,"Le trottoir en béton à Chandni Chowk est déformé par les racines des arbres, posant un risque de chute.",French,Housing & Infrastructure,South Zone,Low,11,2025-07-27 23:28:47,OFF_049
+COM_0273,Les clôtures sont cassées et les bancs vandalisés dans le jardin public près de Jawaharlal Nehru Marg.,French,Housing & Infrastructure,East Zone,Low,9,2026-01-17 15:30:47,OFF_049
+COM_0274,Chandni Chowk的饮用水发褐且有化学品味。饮用很不安全。,Chinese,Water Supply,South Zone,High,2,2026-05-09 22:14:47,OFF_001
+COM_0275,Netaji Subhash Chandra Bose Road上堆积了大量的落叶、泥土和砂石。扫路车已经一个月没来了。,Chinese,Sanitation,North Zone,Low,14,2025-12-11 03:18:47,OFF_018
+COM_0276,Golf Course Road公寓大楼的挡土墙发现深层结构裂缝。,Chinese,Housing & Infrastructure,South Zone,High,3,2025-11-08 07:59:47,OFF_053
+COM_0277,La pression de l'eau sur Hazratganj a chuté à un filet. Il est difficile de faire la vaisselle ou de prendre une douche.,French,Water Supply,North Zone,Low,8,2025-07-03 14:02:47,OFF_002
+COM_0278,Les feux de signalisation à l'intersection de Park Street sont en panne. C'est le chaos et les accidents sont proches.,French,Traffic & Roads,West Zone,High,3,2025-10-31 22:46:47,OFF_032
+COM_0279,L'obstruction de la conduite d'égout provoque des refoulements d'égout dans les sous-sols sur Senapati Bapat Marg.,French,Sanitation,South Zone,High,1,2025-06-01 12:08:47,OFF_021
+COM_0280,Accumulation de terre et de verre brisé sur le côté de MG Road. C'est dangereux pour les cyclistes.,French,Sanitation,East Zone,Low,17,2025-11-02 02:20:47,OFF_014
+COM_0281,Netaji Subhash Chandra Bose Road के पास सड़क पर बिजली का तार गिरा हुआ है। यह चालू है और बेहद खतरनाक है।,Hindi,Electricity & Power,South Zone,High,1,2025-09-24 15:33:47,OFF_034
+COM_0282,"Jawaharlal Nehru Marg के पास की फैक्ट्री से स्थानीय नाले में अवैध रसायन बहाया जा रहा है, जिससे मछलियां मर रही हैं।",Hindi,Environmental Protection,Central Zone,High,4,2025-12-16 01:44:47,OFF_024
+COM_0283,Linking Road पर फुटपाथ के ऊपर हाई-वोल्टेज बिजली का तार बहुत नीचे लटका हुआ है। राहगीर खतरे में हैं।,Hindi,Electricity & Power,South Zone,High,2,2026-05-22 22:27:47,OFF_034
+COM_0284,Les feux de signalisation à l'intersection de Jawaharlal Nehru Marg sont en panne. C'est le chaos et les accidents sont proches.,French,Traffic & Roads,South Zone,High,1,2025-07-22 04:35:47,OFF_033
+COM_0285,मैंने Park Street के रेस्तरां की रसोई के अंदर चूहों को भागते देखा। यह स्वच्छता के लिए एक बड़ा खतरा है।,Hindi,Public Health,East Zone,High,2,2025-11-02 13:23:47,OFF_025
+COM_0286,The balcony wall of the older building at Outer Ring Road has large cracks and looks ready to collapse onto the sidewalk.,English,Housing & Infrastructure,Central Zone,Medium,2,2025-10-03 10:32:47,OFF_052
+COM_0287,Un câble électrique abattu gît sur la chaussée près de Brigade Road. Il est sous tension et extrêmement dangereux.,French,Electricity & Power,North Zone,High,3,2026-03-06 06:13:47,OFF_032
+COM_0288,Hay una grave plaga de ratas en el callejón público cerca de MG Road. Muerden los cubos de basura.,Spanish,Public Health,North Zone,Medium,4,2025-09-07 11:30:47,OFF_024
+COM_0289,A developer is clearing trees on public land at SP Road without environmental permits.,English,Environmental Protection,East Zone,Medium,2,2025-07-01 06:04:47,OFF_049
+COM_0290,La fábrica cerca de Mall Road emite humo químico negro y denso. Es difícil respirar en el vecindario.,Spanish,Environmental Protection,North Zone,Medium,2,2026-03-18 12:59:47,OFF_041
+COM_0291,"Lal Bahadur Shastri Marg के पास की फैक्ट्री से घना, काला रासायनिक धुआं निकल रहा है। पड़ोस में सांस लेना मुश्किल है।",Hindi,Environmental Protection,West Zone,High,2,2025-10-16 07:35:47,OFF_025
+COM_0292,Janpath发生非法倾倒生活垃圾袋。阻碍行人通行并造成不卫生的状况。,Chinese,Sanitation,South Zone,Medium,7,2026-03-06 14:10:47,OFF_044
+COM_0293,Golf Course Road पर पीने का पानी भूरा है और रसायनों जैसी गंध आ रही है। यह पीने के लिए असुरक्षित है।,Hindi,Water Supply,South Zone,High,2,2026-04-16 16:57:47,OFF_008
+COM_0294,"De l'eau sale sort de nos robinets sur Park Street. Il y a un résidu étrange, veuillez vérifier le réservoir local.",French,Water Supply,West Zone,High,4,2025-11-09 11:24:47,OFF_007
+COM_0295,Dépôt illégal de sacs poubelles sur la rue Chhatrapati Shivaji Maharaj Marg. Cela bloque le passage et crée des conditions insalubres.,French,Sanitation,North Zone,Medium,3,2026-01-25 15:29:47,OFF_009
+COM_0296,"La acera de hormigón en Dr. B.R. Ambedkar Road está doblada y agrietada por las raíces, lo que representa peligro de tropezar.",Spanish,Housing & Infrastructure,South Zone,Low,9,2025-06-26 06:43:47,OFF_051
+COM_0297,Les jeux de l'aire de loisirs sur Brigade Road sont cassés et rouillés. C'est dangereux pour les enfants.,French,Housing & Infrastructure,South Zone,Low,14,2025-06-12 21:51:47,OFF_049
+COM_0298,SP Road上的一排路灯坏了一周了。路面漆黑一片，居民感到很不安全。,Chinese,Traffic & Roads,South Zone,Low,13,2025-11-03 04:38:47,OFF_018
+COM_0299,There is a major water main burst on Janpath. Flooding is spreading quickly on the road.,English,Water Supply,South Zone,Medium,2,2026-04-08 05:58:47,OFF_001
+COM_0300,"La alcantarilla principal se está desbordando en Netaji Subhash Chandra Bose Road. El agua de alcantarillado brota, creando peligro.",Spanish,Sanitation,North Zone,High,1,2026-02-22 10:11:47,OFF_006
+COM_0301,टूटी हुई लाइटों के कारण Dr. B.R. Ambedkar Road पर सड़क पर अंधेरा है। यह रात के यात्रियों के लिए एक सुरक्षा खतरा है।,Hindi,Traffic & Roads,East Zone,Low,5,2026-01-07 19:38:47,OFF_020
+COM_0302,"Descarga química ilegal de la fábrica en el arroyo local cerca de Park Street, matando peces.",Spanish,Environmental Protection,Central Zone,High,4,2026-03-26 04:31:47,OFF_006
+COM_0303,Plusieurs lampadaires sur Brigade Road sont éteints depuis une semaine. La route est dans le noir complet.,French,Traffic & Roads,North Zone,Low,14,2026-03-15 00:18:47,OFF_021
+COM_0304,SP Road的变压器发生爆炸并发出巨响。浓烟升起，电力中断。,Chinese,Electricity & Power,North Zone,High,1,2025-07-07 06:29:47,OFF_031
+COM_0305,The road surface on Mall Road is full of cracks and deep potholes. It needs patching before a major accident occurs.,English,Traffic & Roads,West Zone,High,6,2025-07-02 10:23:47,OFF_053
+COM_0306,The balcony wall of the older building at Lal Bahadur Shastri Marg has large cracks and looks ready to collapse onto the sidewalk.,English,Housing & Infrastructure,West Zone,High,1,2026-02-05 11:29:47,OFF_048
+COM_0307,A transformer on SP Road is leaking oil and humming loudly. Sparks are occasionally coming out.,English,Electricity & Power,South Zone,High,1,2025-10-25 23:27:47,OFF_034
+COM_0308,A large pothole has opened up near Brigade Road. Several vehicles have suffered damaged tires and rims today.,English,Traffic & Roads,West Zone,Medium,6,2025-07-15 09:45:47,OFF_053
+COM_0309,A transformer on Brigade Road is leaking oil and humming loudly. Sparks are occasionally coming out.,English,Electricity & Power,Central Zone,High,1,2025-07-19 09:20:47,OFF_032
+COM_0310,下水道管线堵塞导致污水倒灌进Park Street住户的地下室排水管。,Chinese,Sanitation,East Zone,High,2,2025-07-17 00:32:47,OFF_015
+COM_0311,"Netaji Subhash Chandra Bose Road पर मेरे घर का बिजली मीटर अत्यधिक तेज़ चल रहा है, जिससे सामान्य से तीन गुना अधिक बिल आ रहा है।",Hindi,Electricity & Power,East Zone,High,12,2026-04-14 18:37:47,OFF_020
+COM_0312,Garbage hasn't been collected at Brigade Road for over two weeks. The bins are overflowing onto the street.,English,Sanitation,East Zone,Medium,4,2025-11-02 11:37:47,OFF_014
+COM_0313,Musique extrêmement forte de la boîte de nuit sur Park Street après 2h du matin. Les voisins ne peuvent pas dormir.,French,Public Health,West Zone,Low,5,2025-09-01 13:09:47,OFF_021
+COM_0314,"Chhatrapati Shivaji Maharaj Marg पर ट्रैफिक सिग्नल सभी दिशाओं में लाल रंग पर अटका हुआ है। भारी ट्रैफिक जाम, कृपया अधिकारी भेजें।",Hindi,Traffic & Roads,East Zone,High,2,2026-05-05 02:12:47,OFF_020
+COM_0315,SP Road的工业厂区散发出难闻的硫磺味。这导致居民头痛。,Chinese,Environmental Protection,South Zone,High,6,2025-12-29 16:50:47,OFF_001
+COM_0316,Senapati Bapat Marg公园内的游乐场设施损坏且生锈。对儿童玩耍很不安全。,Chinese,Housing & Infrastructure,East Zone,Low,9,2026-03-17 15:58:47,OFF_036
+COM_0317,我位于Dr. B.R. Ambedkar Road家里的电表转得极快，计费是正常的三倍。,Chinese,Electricity & Power,West Zone,Low,7,2025-09-04 03:09:47,OFF_017
+COM_0318,Linking Road के पास सार्वजनिक गली में चूहों का भारी प्रकोप है। वे कचरे के डिब्बों को काट रहे हैं।,Hindi,Public Health,Central Zone,Medium,7,2025-07-12 11:42:47,OFF_024
+COM_0319,Bruit de chantier continu la nuit sur Hazratganj. Ils travaillent au-delà des heures légales.,French,Public Health,West Zone,Low,5,2026-05-22 18:44:47,OFF_047
+COM_0320,A transformer on Linking Road is leaking oil and humming loudly. Sparks are occasionally coming out.,English,Electricity & Power,South Zone,High,2,2025-07-22 17:56:47,OFF_034
+COM_0321,我们在Golf Course Road的自来水管道里流出脏水。有奇怪的残留物，请检查当地水库。,Chinese,Water Supply,East Zone,High,3,2026-04-05 14:09:47,OFF_002
+COM_0322,Janpath पर सीवर का गंदा पानी बाहर बह रहा है। दुर्गंधयुक्त काला गंदा पानी सड़क और रास्तों में भर रहा है।,Hindi,Sanitation,Central Zone,High,3,2025-12-17 09:51:47,OFF_008
+COM_0323,"Chandni Chowk के फुटपाथ पर बदबूदार कचरे का ढेर लगा है। इससे चूहे और मक्खियां आ रही हैं, कृपया कचरा गाड़ी भेजें।",Hindi,Sanitation,North Zone,Medium,5,2025-10-19 15:01:47,OFF_025
+COM_0324,Someone is cutting down protected ancient trees in the reserve park near Linking Road without permission.,English,Environmental Protection,East Zone,Medium,6,2025-10-13 22:33:47,OFF_049
+COM_0325,"The electricity meter at my home on Vittal Mallya Road is running extremely fast, billing us three times the normal rate.",English,Electricity & Power,South Zone,Low,15,2026-02-01 16:02:47,OFF_034
+COM_0326,Jawaharlal Nehru Marg中央有一个又深又危险的坑洼。车子为了躲避它而紧急变道，非常危险。,Chinese,Traffic & Roads,East Zone,Medium,6,2026-02-21 17:08:47,OFF_023
+COM_0327,La basura no se ha recogido en Chhatrapati Shivaji Maharaj Marg durante más de dos semanas. Los contenedores se desbordan en la calle.,Spanish,Sanitation,North Zone,Medium,4,2025-10-16 10:59:47,OFF_009
+COM_0328,"Dr. B.R. Ambedkar Road का एक निवासी पूरे दिन शोर करने वाला जनरेटर चला रहा है, जिससे अत्यधिक शोर कंपन पैदा हो रहा है।",Hindi,Public Health,North Zone,Low,6,2026-01-12 05:02:47,OFF_021
+COM_0329,Chandni Chowk上夜间持续发生巨大的施工噪音。他们正在超出法定时间工作。,Chinese,Public Health,South Zone,Low,6,2026-05-16 01:25:47,OFF_018
+COM_0330,The drinking water at SP Road is brown and smells like chemicals. It is unsafe to consume.,English,Water Supply,South Zone,High,2,2026-05-10 05:24:47,OFF_001
+COM_0331,MG Road附近的工厂正在排放滚滚黑烟。社区里呼吸困难。,Chinese,Environmental Protection,West Zone,High,4,2025-06-02 06:23:47,OFF_055
+COM_0332,Un transformateur sur Lal Bahadur Shastri Marg fuit de l'huile et grésille fortement. Des étincelles jaillissent parfois.,French,Electricity & Power,East Zone,High,1,2025-10-30 20:40:47,OFF_054
+COM_0333,Dr. B.R. Ambedkar Road पर असमान फुटपाथ के कारण व्हीलचेयर उपयोगकर्ताओं के लिए सुरक्षित रूप से चलना असंभव हो गया है।,Hindi,Housing & Infrastructure,North Zone,Low,14,2025-12-06 16:48:47,OFF_021
+COM_0334,"Notre compteur d'électricité à Dr. B.R. Ambedkar Road est éteint, l'écran est vide mais le courant passe.",French,Electricity & Power,West Zone,Medium,12,2025-10-09 19:52:47,OFF_035
+COM_0335,La fábrica cerca de Hazratganj emite humo químico negro y denso. Es difícil respirar en el vecindario.,Spanish,Environmental Protection,South Zone,High,6,2025-11-08 20:15:47,OFF_040
+COM_0336,ट्रक Sardar Patel Marg के पास रात में अवैध रूप से औद्योगिक कचरा डाल रहे हैं। रसायन मिट्टी में लीक हो रहे हैं।,Hindi,Environmental Protection,West Zone,Medium,8,2026-03-23 21:43:47,OFF_017
+COM_0337,Fissures structurelles profondes découvertes dans le mur de soutènement de l'immeuble à Chhatrapati Shivaji Maharaj Marg.,French,Housing & Infrastructure,Central Zone,High,3,2025-11-28 15:26:47,OFF_051
+COM_0338,Outer Ring Road老旧建筑阳台墙体出现巨大裂缝，看起来随时会坍塌到人行道上。,Chinese,Housing & Infrastructure,North Zone,High,3,2026-03-11 04:50:47,OFF_053
+COM_0339,A block of street lights on Chandni Chowk has been out for a week. The road is pitch dark and residents feel unsafe.,English,Traffic & Roads,South Zone,Low,9,2025-11-14 10:23:47,OFF_020
+COM_0340,"Senapati Bapat Marg पर बिजली का ट्रांसफार्मर जोरदार धमाके के साथ फट गया। धुआं उठ रहा है, और बिजली चली गई है।",Hindi,Electricity & Power,North Zone,High,4,2026-04-11 01:37:47,OFF_034
+COM_0341,Accumulated dirt and broken glass on the side of Lal Bahadur Shastri Marg. It's dangerous for bicycle riders.,English,Sanitation,Central Zone,Low,11,2025-08-14 03:19:47,OFF_007
+COM_0342,Linking Road处的红绿灯在所有方向上都卡在红灯上。车辆严重拥堵，请派员处理。,Chinese,Traffic & Roads,East Zone,High,1,2026-02-02 09:47:47,OFF_020
+COM_0343,Sewer is backing up on Vittal Mallya Road. Foul-smelling black waste water is flooding the street and driveways.,English,Sanitation,East Zone,High,3,2025-08-18 14:57:47,OFF_014
+COM_0344,Grietas estructurales profundas descubiertas en el muro de contención del bloque de pisos en Golf Course Road.,Spanish,Housing & Infrastructure,West Zone,High,2,2025-05-31 00:41:47,OFF_046
+COM_0345,"Beaucoup de feuilles, de saleté et de gravier accumulés sur Mall Road. La balayeuse n'est pas passée depuis un mois.",French,Sanitation,Central Zone,Low,10,2025-10-03 06:51:47,OFF_042
+COM_0346,Los semáforos en la intersección de Lal Bahadur Shastri Marg están apagados. El tráfico es un caos y hay peligro de choques.,Spanish,Traffic & Roads,Central Zone,High,1,2025-06-21 08:25:47,OFF_019
+COM_0347,Hazratganj的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,East Zone,Low,5,2025-11-20 14:29:47,OFF_036
+COM_0348,Parte de la fachada de hormigón de un edificio cayó a la calle en MG Road. La estructura parece insegura.,Spanish,Housing & Infrastructure,South Zone,High,1,2025-06-09 17:39:47,OFF_051
+COM_0349,Dépôt illégal de sacs poubelles sur la rue Netaji Subhash Chandra Bose Road. Cela bloque le passage et crée des conditions insalubres.,French,Sanitation,West Zone,Medium,7,2026-04-13 00:45:47,OFF_015
+COM_0350,"For the past three days, water flow is very weak at MG Road. Please investigate the supply lines.",English,Water Supply,North Zone,Low,14,2025-12-09 02:42:47,OFF_002
+COM_0351,Los semáforos en la intersección de MG Road están apagados. El tráfico es un caos y hay peligro de choques.,Spanish,Traffic & Roads,East Zone,High,2,2026-02-19 07:46:47,OFF_019
+COM_0352,"Nuestro medidor de energía en Dr. B.R. Ambedkar Road está completamente apagado, la pantalla está en blanco.",Spanish,Electricity & Power,Central Zone,Low,7,2025-07-26 02:38:47,OFF_033
+COM_0353,Necesitamos limpieza de calles en Hazratganj. Los escombros en el borde de la acera bloquean las alcantarillas.,Spanish,Sanitation,South Zone,Low,13,2025-08-19 00:42:47,OFF_012
+COM_0354,हमने Chhatrapati Shivaji Maharaj Marg के पार्क में बच्चों के खेलने के क्षेत्र के पास ततैया का एक बड़ा झुंड देखा है।,Hindi,Public Health,North Zone,High,5,2026-05-06 14:16:47,OFF_024
+COM_0355,"For the past three days, water flow is very weak at Dr. B.R. Ambedkar Road. Please investigate the supply lines.",English,Water Supply,East Zone,Low,14,2025-10-11 13:10:47,OFF_007
+COM_0356,"Water is gushing out of the street near Chandni Chowk. The entire sidewalk is submerged, please send repair teams.",English,Water Supply,East Zone,High,1,2025-06-21 00:01:47,OFF_014
+COM_0357,Necesitamos limpieza de calles en Chandni Chowk. Los escombros en el borde de la acera bloquean las alcantarillas.,Spanish,Sanitation,West Zone,Low,14,2025-07-15 10:59:47,OFF_015
+COM_0358,A large pothole has opened up near Lal Bahadur Shastri Marg. Several vehicles have suffered damaged tires and rims today.,English,Traffic & Roads,West Zone,Medium,8,2025-12-30 20:03:47,OFF_053
+COM_0359,The balcony wall of the older building at Netaji Subhash Chandra Bose Road has large cracks and looks ready to collapse onto the sidewalk.,English,Housing & Infrastructure,South Zone,High,3,2026-03-16 20:35:47,OFF_051
+COM_0360,हमें Janpath पर सड़क सफाई की आवश्यकता है। कर्ब पर मलबा गटरों को अवरुद्ध कर रहा है।,Hindi,Sanitation,North Zone,Low,10,2026-02-02 03:03:47,OFF_021
+COM_0361,I saw rats running inside the kitchen of the restaurant on Sardar Patel Marg. It's a major hygiene threat.,English,Public Health,East Zone,Low,5,2025-11-18 15:40:47,OFF_025
+COM_0362,有人在Golf Course Road附近的自然保护公园内擅自砍伐受保护的古树。,Chinese,Environmental Protection,South Zone,Medium,9,2025-08-13 17:04:47,OFF_053
+COM_0363,High-voltage electrical wire hanging very low over the sidewalk at Brigade Road. Pedestrians are in danger.,English,Electricity & Power,Central Zone,High,1,2025-07-06 14:27:47,OFF_032
+COM_0364,Les égouts débordent sur Hazratganj. Des eaux usées noires et malodorantes inondent la rue et les allées.,French,Sanitation,South Zone,High,4,2025-09-26 01:36:47,OFF_001
+COM_0365,Senapati Bapat Marg पर नाइट क्लब से रात 2 बजे के बाद बहुत तेज़ संगीत बज रहा है। निवासी सो नहीं पा रहे हैं।,Hindi,Public Health,West Zone,Low,7,2026-04-27 23:13:47,OFF_017
+COM_0366,Multiple people got food poisoning after eating at the food stall at Park Street. Please inspect immediately.,English,Public Health,North Zone,High,4,2026-03-12 05:48:47,OFF_029
+COM_0367,Odeur fétide de soufre provenant de l'usine industrielle à Netaji Subhash Chandra Bose Road. Cela donne des maux de tête.,French,Environmental Protection,South Zone,High,5,2026-04-11 18:37:47,OFF_029
+COM_0368,Un promoteur abat des arbres sur un terrain public à Vittal Mallya Road sans permis environnemental.,French,Environmental Protection,North Zone,Medium,7,2025-05-30 09:29:47,OFF_042
+COM_0369,Les dalles de trottoir inégales à Hazratganj rendent l'accès impossible pour les fauteuils roulants.,French,Housing & Infrastructure,East Zone,Low,5,2026-02-05 03:59:47,OFF_048
+COM_0370,कोई Sardar Patel Marg के पास रिजर्व पार्क में बिना अनुमति के संरक्षित प्राचीन पेड़ों को काट रहा है।,Hindi,Environmental Protection,Central Zone,Medium,4,2025-09-16 13:59:47,OFF_042
+COM_0371,Le mur du balcon de l'ancien immeuble à Golf Course Road présente de larges fissures et semble sur le point de s'effondrer.,French,Housing & Infrastructure,North Zone,High,4,2025-07-31 13:36:47,OFF_051
+COM_0372,有人在Senapati Bapat Marg附近的自然保护公园内擅自砍伐受保护的古树。,Chinese,Environmental Protection,North Zone,Medium,5,2026-01-05 17:37:47,OFF_039
+COM_0373,树枝掉落并折断了Linking Road上的电线。潮湿的地面上正火花四溅，十分紧急！,Chinese,Electricity & Power,North Zone,High,3,2025-12-11 12:45:47,OFF_031
+COM_0374,Des camions déversent des déchets industriels la nuit près de Mall Road. Les produits s'infiltrent dans le sol.,French,Environmental Protection,East Zone,Medium,5,2025-12-26 18:51:47,OFF_014
+COM_0375,Un promoteur abat des arbres sur un terrain public à Park Street sans permis environnemental.,French,Environmental Protection,East Zone,Medium,6,2025-09-08 05:46:47,OFF_049
+COM_0376,"Rejet chimique illégal de l'usine dans le ruisseau local près de Linking Road, tuant les poissons.",French,Environmental Protection,South Zone,High,5,2025-07-27 10:42:47,OFF_001
+COM_0377,Golf Course Road的一位居民整天开着吵闹的发电机，产生了过度的噪音震动。,Chinese,Public Health,Central Zone,Low,8,2025-06-04 15:13:47,OFF_031
+COM_0378,El agua potable en Netaji Subhash Chandra Bose Road es de color marrón y huele a químicos. No es segura para consumir.,Spanish,Water Supply,South Zone,High,1,2026-05-13 07:16:47,OFF_006
+COM_0379,Le mur du balcon de l'ancien immeuble à Park Street présente de larges fissures et semble sur le point de s'effondrer.,French,Housing & Infrastructure,North Zone,High,1,2026-04-09 20:54:47,OFF_048
+COM_0380,Chhatrapati Shivaji Maharaj Marg附近的马路上有一根掉落的电缆。它仍然带电，极其危险。,Chinese,Electricity & Power,Central Zone,High,3,2026-05-04 01:06:47,OFF_031
+COM_0381,Mall Road के फूड स्टॉल पर खाने के बाद कई लोग फूड पॉइजनिंग के शिकार हुए। कृपया तुरंत जांच करें।,Hindi,Public Health,Central Zone,Low,5,2026-04-11 14:00:47,OFF_029
+COM_0382,Accumulation de terre et de verre brisé sur le côté de Park Street. C'est dangereux pour les cyclistes.,French,Sanitation,Central Zone,Low,10,2026-01-13 04:50:47,OFF_007
+COM_0383,Rotura masiva de tuberías en Hazratganj. Cientos de galones de agua limpia se están desperdiciando e inundando hogares.,Spanish,Water Supply,North Zone,High,2,2026-03-09 07:15:47,OFF_006
+COM_0384,"Beaucoup de feuilles, de saleté et de gravier accumulés sur Mall Road. La balayeuse n'est pas passée depuis un mois.",French,Sanitation,West Zone,Low,7,2025-08-15 09:45:47,OFF_042
+COM_0385,过去三天来，Outer Ring Road的水流非常微弱。请调查供水管线。,Chinese,Water Supply,West Zone,Low,10,2025-11-07 15:21:47,OFF_002
+COM_0386,Accumulated dirt and broken glass on the side of Brigade Road. It's dangerous for bicycle riders.,English,Sanitation,West Zone,Low,11,2025-11-23 07:03:47,OFF_019
+COM_0387,Nous avons besoin d'un balayage de rue sur Chandni Chowk. Les débris bloquent les gouttières.,French,Sanitation,East Zone,Low,16,2026-04-25 23:14:47,OFF_014
+COM_0388,"Janpath के पास की फैक्ट्री से घना, काला रासायनिक धुआं निकल रहा है। पड़ोस में सांस लेना मुश्किल है।",Hindi,Environmental Protection,Central Zone,High,3,2025-11-09 12:05:47,OFF_024
+COM_0389,Park Street पर कंक्रीट की इमारत के अग्रभाग का एक हिस्सा सड़क पर गिर गया। संरचना असुरक्षित लग रही है।,Hindi,Housing & Infrastructure,East Zone,Low,5,2026-02-13 13:38:47,OFF_020
+COM_0390,"Nos sale agua sucia de los grifos en Hazratganj. Tiene un residuo extraño, por favor revisen el depósito local.",Spanish,Water Supply,North Zone,High,2,2026-02-25 23:47:47,OFF_006
+COM_0391,Rotura masiva de tuberías en Golf Course Road. Cientos de galones de agua limpia se están desperdiciando e inundando hogares.,Spanish,Water Supply,North Zone,High,4,2026-01-06 19:59:47,OFF_006
+COM_0392,La presión del agua en Vittal Mallya Road ha bajado a un goteo. Es difícil lavar los platos o ducharse.,Spanish,Water Supply,East Zone,High,7,2025-10-04 16:11:47,OFF_005
+COM_0393,Un câble électrique abattu gît sur la chaussée près de Lal Bahadur Shastri Marg. Il est sous tension et extrêmement dangereux.,French,Electricity & Power,West Zone,High,2,2025-06-06 11:50:47,OFF_033
+COM_0394,"For the past three days, water flow is very weak at Janpath. Please investigate the supply lines.",English,Water Supply,North Zone,Low,10,2025-07-05 11:06:47,OFF_002
+COM_0395,Fil électrique haute tension suspendu très bas au-dessus du trottoir à Outer Ring Road. Les piétons sont en danger.,French,Electricity & Power,Central Zone,High,2,2025-12-17 20:08:47,OFF_032
+COM_0396,Linking Road附近的公共小巷里鼠患严重。老鼠正在啃咬垃圾箱。,Chinese,Public Health,West Zone,Medium,12,2025-10-27 19:16:47,OFF_024
+COM_0397,Plusieurs lampadaires sur Park Street sont éteints depuis une semaine. La route est dans le noir complet.,French,Traffic & Roads,Central Zone,Low,5,2026-03-18 18:32:47,OFF_032
+COM_0398,"Our power meter at Commercial Street is completely dead, screen is blank but electricity is still running.",English,Electricity & Power,East Zone,Low,7,2025-08-31 06:46:47,OFF_036
+COM_0399,Los juegos del parque infantil en Brigade Road están rotos y oxidados. Es peligroso para los niños.,Spanish,Housing & Infrastructure,Central Zone,Low,17,2026-03-06 01:25:47,OFF_049
+COM_0400,Quelqu'un a déversé des tas de vieux pneus et de gravats de chantier sur le terrain vague à Commercial Street.,French,Environmental Protection,Central Zone,Medium,7,2025-08-02 20:48:47,OFF_044
+COM_0401,Dépôt illégal de sacs poubelles sur la rue Jawaharlal Nehru Marg. Cela bloque le passage et crée des conditions insalubres.,French,Sanitation,South Zone,Medium,6,2026-04-09 20:26:47,OFF_016
+COM_0402,Un urbanista está talando árboles en terrenos públicos en SP Road sin permisos ambientales.,Spanish,Environmental Protection,East Zone,Medium,5,2025-05-31 09:22:47,OFF_049
+COM_0403,Chandni Chowk पर कंक्रीट की इमारत के अग्रभाग का एक हिस्सा सड़क पर गिर गया। संरचना असुरक्षित लग रही है।,Hindi,Housing & Infrastructure,South Zone,High,2,2026-01-20 13:29:47,OFF_011
+COM_0404,Dr. B.R. Ambedkar Road के पास सार्वजनिक पार्क में बाड़ टूटी हुई हैं और बेंच क्षतिग्रस्त कर दिए गए हैं।,Hindi,Housing & Infrastructure,South Zone,Low,12,2025-10-19 04:04:47,OFF_034
+COM_0405,Fil électrique haute tension suspendu très bas au-dessus du trottoir à Jawaharlal Nehru Marg. Les piétons sont en danger.,French,Electricity & Power,North Zone,High,2,2026-03-21 11:56:47,OFF_033
+COM_0406,High-voltage electrical wire hanging very low over the sidewalk at Sardar Patel Marg. Pedestrians are in danger.,English,Electricity & Power,Central Zone,High,3,2025-08-13 10:32:47,OFF_032
+COM_0407,"Beaucoup de feuilles, de saleté et de gravier accumulés sur Vittal Mallya Road. La balayeuse n'est pas passée depuis un mois.",French,Sanitation,Central Zone,Low,13,2026-02-09 23:49:47,OFF_042
+COM_0408,Tierra acumulada y vidrios rotos al costado de Linking Road. Es peligroso para los ciclistas.,Spanish,Sanitation,West Zone,Low,12,2026-01-31 10:09:47,OFF_019
+COM_0409,El alcantarillado está retrocediendo en Sardar Patel Marg. Aguas residuales negras y malolientes inundan la calle.,Spanish,Sanitation,East Zone,High,3,2025-11-29 11:37:47,OFF_013
+COM_0410,A plague of cockroaches has spread from the sewer drains to the sidewalk on Mall Road.,English,Public Health,North Zone,Medium,8,2025-10-10 17:41:47,OFF_027
+COM_0411,Lal Bahadur Shastri Marg पर फुटपाथ के ऊपर हाई-वोल्टेज बिजली का तार बहुत नीचे लटका हुआ है। राहगीर खतरे में हैं।,Hindi,Electricity & Power,East Zone,High,2,2025-10-04 12:05:47,OFF_033
+COM_0412,हमें Chandni Chowk पर सड़क सफाई की आवश्यकता है। कर्ब पर मलबा गटरों को अवरुद्ध कर रहा है।,Hindi,Sanitation,West Zone,Low,9,2025-08-08 13:17:47,OFF_017
+COM_0413,Sardar Patel Marg发生非法倾倒生活垃圾袋。阻碍行人通行并造成不卫生的状况。,Chinese,Sanitation,South Zone,Medium,4,2026-04-02 21:59:47,OFF_044
+COM_0414,Presión de agua extremadamente baja en nuestro edificio en Mall Road. Apenas nos llega agua a los pisos superiores.,Spanish,Water Supply,North Zone,Low,15,2025-09-13 17:17:47,OFF_005
+COM_0415,"The factory near Netaji Subhash Chandra Bose Road is emitting thick, black chemical smoke. It is hard to breathe in the neighborhood.",English,Environmental Protection,South Zone,High,2,2026-04-16 15:09:47,OFF_038
+COM_0416,"A tree branch fell and snapped a power line on Sardar Patel Marg. Sparks are flying on the wet pavement, urgent!",English,Electricity & Power,South Zone,High,3,2026-03-13 19:08:47,OFF_034
+COM_0417,Quelqu'un abat des arbres anciens protégés dans le parc de réserve près de Commercial Street sans autorisation.,French,Environmental Protection,West Zone,Medium,7,2025-08-24 07:00:47,OFF_042
+COM_0418,"Un residente en Brigade Road opera un generador ruidoso todo el día, generando molestas vibraciones.",Spanish,Public Health,Central Zone,Low,5,2026-05-15 10:06:47,OFF_033
+COM_0419,Chhatrapati Shivaji Maharaj Marg上的夜总会在凌晨2点后仍在播放极其吵闹的音乐。居民无法入睡。,Chinese,Public Health,West Zone,Low,5,2025-09-09 16:02:47,OFF_018
+COM_0420,"Janpath पर मेरे घर का बिजली मीटर अत्यधिक तेज़ चल रहा है, जिससे सामान्य से तीन गुना अधिक बिल आ रहा है।",Hindi,Electricity & Power,North Zone,Low,10,2026-02-25 15:55:47,OFF_033
+COM_0421,Linking Road पर पाइपलाइन फटने से सैकड़ों गैलन साफ पानी बर्बाद हो रहा है और घरों में पानी भर रहा है।,Hindi,Water Supply,Central Zone,High,2,2026-04-26 12:40:47,OFF_008
+COM_0422,Multiple people got food poisoning after eating at the food stall at Hazratganj. Please inspect immediately.,English,Public Health,West Zone,High,4,2025-11-24 17:58:47,OFF_029
+COM_0423,有人在Golf Course Road附近的自然保护公园内擅自砍伐受保护的古树。,Chinese,Environmental Protection,South Zone,Medium,2,2025-10-21 19:03:47,OFF_053
+COM_0424,"Le transformateur électrique a explosé avec un grand bruit à MG Road. De la fumée s'élève, plus de courant.",French,Electricity & Power,North Zone,High,2,2025-06-01 11:48:47,OFF_032
+COM_0425,Nous avons besoin d'un balayage de rue sur Chandni Chowk. Les débris bloquent les gouttières.,French,Sanitation,North Zone,Low,11,2026-02-27 12:43:47,OFF_014
+COM_0426,Rue sombre à Lal Bahadur Shastri Marg à cause de luminaires cassés. C'est dangereux pour les usagers de nuit.,French,Traffic & Roads,South Zone,Low,10,2025-12-04 16:42:47,OFF_032
+COM_0427,Plusieurs personnes ont eu une intoxication après avoir mangé au stand sur Chandni Chowk. Inspectez d'urgence.,French,Public Health,West Zone,High,2,2025-09-23 13:57:47,OFF_029
+COM_0428,Someone dumped piles of old tires and construction debris on the empty lot at Hazratganj.,English,Environmental Protection,West Zone,Medium,11,2026-05-20 20:52:47,OFF_016
+COM_0429,MG Road पर पाइपलाइन फटने से सैकड़ों गैलन साफ पानी बर्बाद हो रहा है और घरों में पानी भर रहा है।,Hindi,Water Supply,North Zone,High,3,2026-01-06 01:11:47,OFF_008
+COM_0430,"Il y a un nid-de-poule profond et dangereux au milieu de Janpath. Les voitures l'évitent, ce qui est risqué.",French,Traffic & Roads,North Zone,Medium,9,2026-04-29 15:25:47,OFF_021
+COM_0431,Someone is cutting down protected ancient trees in the reserve park near Senapati Bapat Marg without permission.,English,Environmental Protection,West Zone,Low,6,2025-09-05 00:57:47,OFF_042
+COM_0432,Chhatrapati Shivaji Maharaj Marg的智能电表显示错误代码 E-12。请派技术人员来检查。,Chinese,Electricity & Power,Central Zone,Low,6,2025-09-28 19:07:47,OFF_036
+COM_0433,"Des tas de déchets malodorants sur le trottoir de Chandni Chowk. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,West Zone,Medium,6,2025-06-05 22:52:47,OFF_016
+COM_0434,Park Street附近的马路上正有水涌出。整个人行道都淹没了，请派人修理。,Chinese,Water Supply,Central Zone,High,1,2026-04-04 05:36:47,OFF_002
+COM_0435,Continuous loud construction noise at night on Brigade Road. They are working past the legal curfew.,English,Public Health,West Zone,Low,5,2026-02-10 08:28:47,OFF_017
+COM_0436,"Depuis trois jours, le débit d'eau est très faible sur SP Road. Veuillez inspecter les conduites d'alimentation.",French,Water Supply,East Zone,Low,15,2026-01-31 06:55:47,OFF_013
+COM_0437,"MG Road पर पैदल यात्री क्रॉसिंग सिग्नल गलत तरीके से चमक रहा है, जिससे भ्रम पैदा हो रहा है।",Hindi,Traffic & Roads,West Zone,High,1,2026-04-18 06:50:47,OFF_017
+COM_0438,Des camions déversent des déchets industriels la nuit près de Chandni Chowk. Les produits s'infiltrent dans le sol.,French,Environmental Protection,Central Zone,Medium,10,2025-10-03 08:12:47,OFF_054
+COM_0439,Musique extrêmement forte de la boîte de nuit sur Park Street après 2h du matin. Les voisins ne peuvent pas dormir.,French,Public Health,South Zone,Low,5,2026-03-18 07:18:47,OFF_021
+COM_0440,Tala ilegal detectada en el bosque cerca de Commercial Street. Varios árboles han sido derribados.,Spanish,Environmental Protection,South Zone,Medium,4,2025-09-23 06:00:47,OFF_019
+COM_0441,"Beaucoup de feuilles, de saleté et de gravier accumulés sur Dr. B.R. Ambedkar Road. La balayeuse n'est pas passée depuis un mois.",French,Sanitation,North Zone,Low,16,2025-06-01 16:09:47,OFF_002
+COM_0442,Les clôtures sont cassées et les bancs vandalisés dans le jardin public près de Mall Road.,French,Housing & Infrastructure,West Zone,Low,12,2025-08-30 15:24:47,OFF_049
+COM_0443,Netaji Subhash Chandra Bose Road附近的公共小巷里鼠患严重。老鼠正在啃咬垃圾箱。,Chinese,Public Health,Central Zone,Medium,9,2025-06-14 15:29:47,OFF_024
+COM_0444,Ruido continuo de construcción por la noche en Dr. B.R. Ambedkar Road. Trabajan fuera del horario legal.,Spanish,Public Health,Central Zone,Low,5,2025-06-04 20:20:47,OFF_019
+COM_0445,Continuous loud construction noise at night on Chandni Chowk. They are working past the legal curfew.,English,Public Health,Central Zone,Low,5,2025-10-10 06:24:47,OFF_050
+COM_0446,Bruit de chantier continu la nuit sur Brigade Road. Ils travaillent au-delà des heures légales.,French,Public Health,West Zone,Low,7,2025-12-05 11:01:47,OFF_021
+COM_0447,मैंने SP Road के रेस्तरां की रसोई के अंदर चूहों को भागते देखा। यह स्वच्छता के लिए एक बड़ा खतरा है।,Hindi,Public Health,South Zone,High,1,2025-10-14 06:42:47,OFF_024
+COM_0448,Vi ratas corriendo dentro de la cocina del restaurante en Linking Road. Es una gran amenaza para la higiene.,Spanish,Public Health,West Zone,High,2,2026-02-08 04:04:47,OFF_027
+COM_0449,Mall Road处高低不平的人行道板导致轮椅使用者无法安全通行。,Chinese,Housing & Infrastructure,West Zone,Low,13,2026-03-15 00:32:47,OFF_018
+COM_0450,La presión del agua en Commercial Street ha bajado a un goteo. Es difícil lavar los platos o ducharse.,Spanish,Water Supply,East Zone,Low,9,2025-11-16 07:30:47,OFF_005
+COM_0451,Chandni Chowk门前的路灯不停闪烁。非常烦人，让我们无法入睡。,Chinese,Traffic & Roads,North Zone,Low,13,2026-05-11 18:19:47,OFF_018
+COM_0452,我位于Outer Ring Road家里的电表转得极快，计费是正常的三倍。,Chinese,Electricity & Power,East Zone,Low,17,2026-01-12 01:31:47,OFF_036
+COM_0453,Linking Road पर बिजली ट्रांसफार्मर खराब होने से पूरा इलाका बिना बिजली और हीटिंग के रह गया है।,Hindi,Electricity & Power,South Zone,High,2,2026-04-17 18:43:47,OFF_034
+COM_0454,There is a severe rat infestation in the public alley near Mall Road. They are chewing through trash bins.,English,Public Health,South Zone,Medium,9,2025-10-12 18:48:47,OFF_016
+COM_0455,SP Road पर किराना दुकान में एक्सपायरी डेट का मांस और डेयरी उत्पाद बेचे जा रहे हैं। गंध बहुत खराब है।,Hindi,Public Health,Central Zone,High,3,2025-08-30 23:15:47,OFF_029
+COM_0456,Dépôt d'appareils électroniques et de vieux matelas sur le bord de la route à Jawaharlal Nehru Marg.,French,Environmental Protection,South Zone,Medium,3,2025-06-30 14:42:47,OFF_051
+COM_0457,Jawaharlal Nehru Marg पर पाइपलाइन फटने से सैकड़ों गैलन साफ पानी बर्बाद हो रहा है और घरों में पानी भर रहा है।,Hindi,Water Supply,North Zone,High,1,2026-04-29 11:26:47,OFF_008
+COM_0458,"Des tas de déchets malodorants sur le trottoir de Linking Road. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,South Zone,Medium,2,2025-06-15 20:29:47,OFF_016
+COM_0459,Park Street के स्थानीय पार्क में खरपतवार और कचरे का ढेर लगा है। यह उपेक्षित और परित्यक्त दिखता है।,Hindi,Housing & Infrastructure,East Zone,Low,12,2026-03-01 04:44:47,OFF_042
+COM_0460,Hazratganj上的一个变压器漏油并发出巨大的嗡嗡声。偶尔有火花冒出。,Chinese,Electricity & Power,Central Zone,High,2,2026-03-01 06:58:47,OFF_031
+COM_0461,"De l'eau sale sort de nos robinets sur Golf Course Road. Il y a un résidu étrange, veuillez vérifier le réservoir local.",French,Water Supply,East Zone,High,1,2026-02-20 03:29:47,OFF_014
+COM_0462,Senapati Bapat Marg十字路口的红绿灯完全坏了。交通陷入混乱，险些发生事故。,Chinese,Traffic & Roads,West Zone,High,2,2026-03-30 06:57:47,OFF_017
+COM_0463,La pression de l'eau sur Golf Course Road a chuté à un filet. Il est difficile de faire la vaisselle ou de prendre une douche.,French,Water Supply,Central Zone,Low,9,2026-04-24 12:00:47,OFF_007
+COM_0464,Il y a une grave infestation de rats dans la ruelle publique près de Golf Course Road. Ils rongent les poubelles.,French,Public Health,South Zone,Medium,12,2026-05-19 20:24:47,OFF_025
+COM_0465,Golf Course Road门前的路灯不停闪烁。非常烦人，让我们无法入睡。,Chinese,Traffic & Roads,South Zone,Low,5,2025-10-24 02:47:47,OFF_018
+COM_0466,Janpath पर रात में लगातार निर्माण कार्य का तेज़ शोर हो रहा है। वे कानूनी समय के बाद भी काम कर रहे हैं।,Hindi,Public Health,West Zone,Low,5,2025-06-23 16:08:47,OFF_017
+COM_0467,"Des tas de déchets malodorants sur le trottoir de Linking Road. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,West Zone,Medium,2,2025-08-13 23:38:47,OFF_016
+COM_0468,"Senapati Bapat Marg पर मुख्य नाला ओवरफ्लो हो रहा है। सीवेज का पानी उबल रहा है, जिससे स्वास्थ्य का खतरा पैदा हो रहा है।",Hindi,Sanitation,East Zone,High,1,2025-07-09 03:10:47,OFF_008
+COM_0469,"The pedestrian crossing signal is flashing erratically at Senapati Bapat Marg, causing confusion for kids crossing the street.",English,Traffic & Roads,South Zone,High,2,2025-06-04 02:56:47,OFF_018
+COM_0470,ट्रक Chhatrapati Shivaji Maharaj Marg के पास रात में अवैध रूप से औद्योगिक कचरा डाल रहे हैं। रसायन मिट्टी में लीक हो रहे हैं।,Hindi,Environmental Protection,North Zone,Medium,8,2026-02-19 20:20:47,OFF_042
+COM_0471,L'épicerie sur Brigade Road vend de la viande et des produits laitiers périmés. L'odeur est affreuse.,French,Public Health,North Zone,High,1,2026-01-30 19:26:47,OFF_029
+COM_0472,Blocked sewer line has caused sewage to backup into basement drains in homes on Commercial Street.,English,Sanitation,North Zone,High,4,2025-06-05 04:57:47,OFF_015
+COM_0473,The street lamp in front of Chhatrapati Shivaji Maharaj Marg is flickering continuously. It's very annoying and keeps us awake.,English,Traffic & Roads,North Zone,Low,14,2026-03-30 03:30:47,OFF_031
+COM_0474,La pared del balcón del edificio antiguo en Senapati Bapat Marg tiene grietas grandes y parece a punto de colapsar.,Spanish,Housing & Infrastructure,North Zone,High,3,2025-06-28 00:29:47,OFF_046
+COM_0475,有人在Linking Road的空地上倾倒了成堆的旧轮胎和建筑垃圾。,Chinese,Environmental Protection,West Zone,Medium,9,2026-01-08 22:19:47,OFF_053
+COM_0476,Linking Road पर हमारे भवन में पानी का दबाव बहुत कम है। ऊपरी मंजिलों पर पानी बमुश्किल मिल पाता है।,Hindi,Water Supply,East Zone,Low,17,2026-01-08 16:25:47,OFF_008
+COM_0477,"SP Road पर मेरे घर का बिजली मीटर अत्यधिक तेज़ चल रहा है, जिससे सामान्य से तीन गुना अधिक बिल आ रहा है।",Hindi,Electricity & Power,South Zone,Low,14,2026-01-23 08:02:47,OFF_034
+COM_0478,Jawaharlal Nehru Marg的水泥人行道被树根拱起开裂，造成严重绊倒隐患。,Chinese,Housing & Infrastructure,Central Zone,Low,11,2025-10-10 16:30:47,OFF_052
+COM_0479,我们注意到在Brigade Road的公园里，儿童游乐区附近有大量的黄蜂聚集。,Chinese,Public Health,North Zone,Medium,8,2025-09-28 09:53:47,OFF_024
+COM_0480,我们在Commercial Street的大楼水压极低。顶层几乎接不到水。,Chinese,Water Supply,Central Zone,Low,11,2025-10-20 09:33:47,OFF_001
+COM_0481,"The factory near Hazratganj is emitting thick, black chemical smoke. It is hard to breathe in the neighborhood.",English,Environmental Protection,North Zone,High,2,2025-09-09 02:38:47,OFF_054
+COM_0482,Illegal dump of household trash bags on Lal Bahadur Shastri Marg. It blocks pedestrian access and creates unsanitary conditions.,English,Sanitation,West Zone,Medium,7,2025-06-23 10:21:47,OFF_010
+COM_0483,"The electricity meter at my home on Commercial Street is running extremely fast, billing us three times the normal rate.",English,Electricity & Power,West Zone,Low,8,2026-04-21 00:30:47,OFF_037
+COM_0484,"Netaji Subhash Chandra Bose Road पर हमारा बिजली मीटर पूरी तरह से बंद है, स्क्रीन खाली है लेकिन बिजली अभी भी चल रही है।",Hindi,Electricity & Power,Central Zone,Low,9,2025-07-04 08:11:47,OFF_033
+COM_0485,"Lots of leaves, dirt, and gravel have accumulated on Chhatrapati Shivaji Maharaj Marg. The street sweeper hasn't visited in a month.",English,Sanitation,Central Zone,Low,12,2026-04-30 06:43:47,OFF_042
+COM_0486,有人在Park Street路边倾倒电子电器和旧床垫。,Chinese,Environmental Protection,West Zone,Medium,12,2025-11-28 20:36:47,OFF_036
+COM_0487,कोई Brigade Road के पास रिजर्व पार्क में बिना अनुमति के संरक्षित प्राचीन पेड़ों को काट रहा है।,Hindi,Environmental Protection,South Zone,Medium,7,2026-04-30 04:41:47,OFF_042
+COM_0488,Un transformateur sur Park Street fuit de l'huile et grésille fortement. Des étincelles jaillissent parfois.,French,Electricity & Power,East Zone,High,3,2026-01-04 22:27:47,OFF_032
+COM_0489,Commercial Street人行道上方悬挂着一根很低的压电线。行人面临触电危险。,Chinese,Electricity & Power,West Zone,High,2,2026-01-15 13:32:47,OFF_031
+COM_0490,Extremely low water pressure in our building at Janpath. We can barely get water on the top floors.,English,Water Supply,North Zone,Low,9,2025-10-29 06:20:47,OFF_005
+COM_0491,Fences are broken and benches are vandalized in the public garden near Sardar Patel Marg.,English,Housing & Infrastructure,Central Zone,Low,7,2025-06-17 13:29:47,OFF_049
+COM_0492,"Des tas de déchets malodorants sur le trottoir de SP Road. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,South Zone,Medium,3,2026-03-17 11:43:47,OFF_016
+COM_0493,Accumulated dirt and broken glass on the side of Mall Road. It's dangerous for bicycle riders.,English,Sanitation,West Zone,Low,10,2026-04-22 08:09:47,OFF_007
+COM_0494,कोई Netaji Subhash Chandra Bose Road के पास रिजर्व पार्क में बिना अनुमति के संरक्षित प्राचीन पेड़ों को काट रहा है।,Hindi,Environmental Protection,East Zone,Medium,7,2025-07-29 06:54:47,OFF_042
+COM_0495,A developer is clearing trees on public land at Lal Bahadur Shastri Marg without environmental permits.,English,Environmental Protection,North Zone,Medium,3,2026-03-01 17:16:47,OFF_046
+COM_0496,Varias farolas en Netaji Subhash Chandra Bose Road no funcionan hace una semana. La calle está oscura y es insegura.,Spanish,Traffic & Roads,West Zone,Low,5,2026-01-05 08:57:47,OFF_019
+COM_0497,Notamos un enjambre masivo de avispas cerca del área de juegos infantiles en el parque en Jawaharlal Nehru Marg.,Spanish,Public Health,West Zone,Medium,6,2025-12-19 07:12:47,OFF_027
+COM_0498,"Linking Road का एक निवासी पूरे दिन शोर करने वाला जनरेटर चला रहा है, जिससे अत्यधिक शोर कंपन पैदा हो रहा है।",Hindi,Public Health,South Zone,Low,5,2025-12-17 19:43:47,OFF_020
+COM_0499,Hazratganj路边积存的泥土和碎玻璃。对骑自行车的人很危险。,Chinese,Sanitation,South Zone,Low,15,2026-01-04 09:50:47,OFF_001
+COM_0500,High-voltage electrical wire hanging very low over the sidewalk at Golf Course Road. Pedestrians are in danger.,English,Electricity & Power,West Zone,High,1,2025-11-21 18:48:47,OFF_037
+COM_0501,"Nos sale agua sucia de los grifos en Janpath. Tiene un residuo extraño, por favor revisen el depósito local.",Spanish,Water Supply,West Zone,High,1,2025-09-25 05:50:47,OFF_010
+COM_0502,"There is a deep, dangerous pothole in the middle of Netaji Subhash Chandra Bose Road. Cars are swerving to avoid it, which is risky.",English,Traffic & Roads,South Zone,Medium,5,2025-06-05 09:51:47,OFF_053
+COM_0503,Une partie de la façade en béton d'un immeuble est tombée sur la route à Senapati Bapat Marg. La structure semble instable.,French,Housing & Infrastructure,North Zone,High,4,2025-09-14 05:41:47,OFF_048
+COM_0504,Janpath上的一个变压器漏油并发出巨大的嗡嗡声。偶尔有火花冒出。,Chinese,Electricity & Power,South Zone,High,2,2025-12-07 18:04:47,OFF_031
+COM_0505,Illegal lumbering activities detected at the woodland area near Brigade Road. Multiple trees are felled.,English,Environmental Protection,North Zone,Medium,10,2025-10-14 00:36:47,OFF_046
+COM_0506,Trucks are dumping industrial waste illegally at night near Sardar Patel Marg. The chemicals are leaking into soil.,English,Environmental Protection,East Zone,Medium,5,2026-04-26 11:21:47,OFF_044
+COM_0507,Continuous loud construction noise at night on Senapati Bapat Marg. They are working past the legal curfew.,English,Public Health,Central Zone,Low,5,2026-02-09 13:42:47,OFF_032
+COM_0508,Someone dumped piles of old tires and construction debris on the empty lot at Hazratganj.,English,Environmental Protection,East Zone,Medium,7,2025-06-07 10:50:47,OFF_044
+COM_0509,Les feux de signalisation à l'intersection de Hazratganj sont en panne. C'est le chaos et les accidents sont proches.,French,Traffic & Roads,East Zone,High,2,2025-06-13 16:24:47,OFF_033
+COM_0510,"Des tas de déchets malodorants sur le trottoir de Linking Road. Cela attire les rats, veuillez envoyer des camions.",French,Sanitation,North Zone,Medium,9,2026-04-14 20:21:47,OFF_009
+COM_0511,Golf Course Road附近的公共小巷里鼠患严重。老鼠正在啃咬垃圾箱。,Chinese,Public Health,East Zone,Medium,7,2026-03-02 03:20:47,OFF_024
+COM_0512,有人在Commercial Street路边倾倒电子电器和旧床垫。,Chinese,Environmental Protection,South Zone,Medium,12,2025-08-06 13:05:47,OFF_031
+COM_0513,Mall Road老旧建筑阳台墙体出现巨大裂缝，看起来随时会坍塌到人行道上。,Chinese,Housing & Infrastructure,North Zone,High,2,2025-08-31 10:00:47,OFF_048
+COM_0514,We need street sweeping at Golf Course Road. Debris on the curb is blocking storm gutters.,English,Sanitation,West Zone,Low,10,2025-09-02 02:15:47,OFF_013
+COM_0515,Sardar Patel Marg发生非法倾倒生活垃圾袋。阻碍行人通行并造成不卫生的状况。,Chinese,Sanitation,Central Zone,Medium,6,2025-09-24 06:50:47,OFF_044
+COM_0516,Multiple residents on Senapati Bapat Marg report falling sick from tap water. The water color is yellowish and murky.,English,Water Supply,South Zone,High,3,2026-04-26 10:18:47,OFF_001
+COM_0517,Linking Road के स्थानीय पार्क में खरपतवार और कचरे का ढेर लगा है। यह उपेक्षित और परित्यक्त दिखता है।,Hindi,Housing & Infrastructure,South Zone,Low,8,2025-06-05 07:33:47,OFF_042
+COM_0518,"Se han acumulado muchas hojas, tierra y grava en Jawaharlal Nehru Marg. La barredora de calles no pasa hace un mes.",Spanish,Sanitation,South Zone,Low,18,2026-04-09 14:51:47,OFF_012
+COM_0519,El semáforo en Lal Bahadur Shastri Marg está atascado en rojo en todas las direcciones. Enorme embotellamiento de tráfico.,Spanish,Traffic & Roads,North Zone,High,3,2025-11-05 11:46:47,OFF_019
+COM_0520,开发商在未获得环保许可的情况下，清除Hazratganj公共土地上的树木。,Chinese,Environmental Protection,North Zone,Medium,7,2025-06-19 06:40:47,OFF_039
